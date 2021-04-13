@@ -3,7 +3,7 @@
 
 <p align="left">
   <a href="https://github.com/wapborhan/wapborhan">
-    <img src="https://komarev.com/ghpvc/?username=macropower" alt="page views" />
+    <img src="https://komarev.com/ghpvc/?username=wapborhan" alt="page views" />
   </a>
   <a href="https://macropower.readthedocs.io/en/latest">
     <img alt="Read the Docs" src="https://img.shields.io/readthedocs/macropower?logo=read-the-docs">
