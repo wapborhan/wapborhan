@@ -90,6 +90,10 @@ Thanks for visiting my profile. My name is Borhan. I'm a professional web develo
 
 ![GitHub metrics](https://metrics.lecoq.io/wapborhan)
 
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wapborhan)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <h2 align="left">Coding Activity</h2>
 
 > Total logged time since 2020-07-19. Updated every 1 hour. [(Learn how this works)](https://macropower.readthedocs.io/en/latest/#dynamic-ascii-graph)
