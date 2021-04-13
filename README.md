@@ -17,34 +17,19 @@ Thanks for visiting my profile. My name is Borhan. I'm a professional web develo
 	<td>Backend</td>
 </th>
 <tr>
+	<td>HTML</td>
 	<td>PHP</td>
-	<td>Laravel</td>
-	<td>JS</td>
 </tr>
 <tr>
 	<td>CSS</td>
-	<td>SASS</td>
-	<td>HTML</td>
+	<td></td>
 </tr>	
 <tr>
-	<td>bootstrap</td>
-	<td>wordpress</td>
-	<td>GOLANG</td>
+	<td>SASS</td>
+	<td></td>
 </tr>
 <tr>
-	<td>VS Code</td>
-	<td>GIT</td>
-	<td>Github</td>
-</tr>
-<tr>
-	<td>Ampps</td>
-	<td>Wamps</td>
-	<td>Postman</td>
-</tr>
-<tr>
-	<td>Node</td>
-	<td>SQL</td>
-	<td>Couchbase</td>
+
 </tr>
 </table>
 
