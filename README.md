@@ -64,8 +64,4 @@ Thanks for visiting my profile. My name is Borhan. I'm a professional web develo
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=wapborhan&show_icons=true&count_private=true)  
 
-
-
-![GitHub metrics](https://metrics.lecoq.io/wapborhan) 
-
-01620557840
+![GitHub metrics](https://metrics.lecoq.io/wapborhan)
