@@ -1,4 +1,4 @@
-### Hi there 👋, my name is [Borhan](https://www.facebook.com/borhan4238/)  [![Github](https://img.shields.io/github/followers/wapborhan?label=Follow&style=social)](https://github.com/wapborhan) ![Profile views](https://gpvc.arturio.dev/wapborhan)
+### Hi there 👋, My Name is [Borhan Uddin](https://www.facebook.com/borhan4238/)  [![Github](https://img.shields.io/github/followers/wapborhan?label=Follow&style=social)](https://github.com/wapborhan) ![Profile views](https://gpvc.arturio.dev/wapborhan)
 > Design is my Passion, Coding is hobby
 
 
@@ -12,6 +12,10 @@ Thanks for visiting my profile. My name is Borhan. I'm a professional web develo
 # Languages and Tools:
 
 <table>
+<th>
+	<td>Frontend</td>
+	<td>Backend</td>
+</th>
 <tr>
 	<td>PHP</td>
 	<td>Laravel</td>
