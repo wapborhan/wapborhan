@@ -11,24 +11,24 @@ Thanks for visiting my profile. My name is Borhan. I'm a professional web develo
 
 # Languages and Tools:
 
-    <table style="width:100%">
-        <tr>
-            <td>Frontend</td>
-            <td>Backend</td>
-        </tr>
-        <tr>
-            <td>HTML</td>
-            <td>PHP</td>
-        </tr>
-        <tr>
-            <td>CSS</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>SASS</td>
-            <td></td>
-        </tr>
-    </table>
+   <table style="width:100%">
+       <tr>
+           <td>Frontend</td>
+           <td>Backend</td>
+       </tr>
+       <tr>
+           <td>HTML</td>
+           <td>PHP</td>
+       </tr>
+       <tr>
+           <td>CSS</td>
+           <td></td>
+       </tr>
+       <tr>
+           <td>SASS</td>
+           <td></td>
+       </tr>
+   </table>
 
 
 
