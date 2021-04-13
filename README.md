@@ -2,7 +2,7 @@
 ![I am a Web Developer ](https://media-exp1.licdn.com/dms/image/C5616AQFvRHyxTDVH1A/profile-displaybackgroundimage-shrink_350_1400/0/1612431913167?e=1623283200&v=beta&t=NBFMyBDvc7BMtC5Yqx_4aTPJiSBTNqXKcR2sWxV-1CA)
 
 <p align="left">
-  <a href="https://github.com/MacroPower/MacroPower">
+  <a href="https://github.com/wapborhan/wapborhan">
     <img src="https://komarev.com/ghpvc/?username=macropower" alt="page views" />
   </a>
   <a href="https://macropower.readthedocs.io/en/latest">
@@ -11,13 +11,13 @@
   <a href="https://stackoverflow.com/users/4868262">
     <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/4868262?color=orange&label=reputation&logo=stackoverflow">
   </a>
-  <a href="https://reddit.com/u/macropower">
+  <a href="https://reddit.com/u/borhan4238">
     <img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/macropower?label=karma&logo=reddit">
   </a>
-  <a href="https://github.com/MacroPower?tab=followers">
+  <a href="https://github.com/wapborhan?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/MacroPower?color=green&logo=github">
   </a>
-  <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
+  <a href="https://github.com/wapborhan/awesome-github-profile-readme">
     <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
   </a>
 </p>
