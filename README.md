@@ -1,33 +1,12 @@
 ### Hi there 👋, my name is [Borhan](https://www.facebook.com/borhan4238/) 
+> Design is my Passion, Coding is hobby
+
+
 ![I am a Web Developer ](https://media-exp1.licdn.com/dms/image/C5616AQFvRHyxTDVH1A/profile-displaybackgroundimage-shrink_350_1400/0/1612431913167?e=1623283200&v=beta&t=NBFMyBDvc7BMtC5Yqx_4aTPJiSBTNqXKcR2sWxV-1CA)
 
-<p align="left">
-  <a href="https://github.com/wapborhan/wapborhan">
-    <img src="https://komarev.com/ghpvc/?username=wapborhan" alt="page views" />
-  </a>
-  <a href="https://macropower.readthedocs.io/en/latest">
-    <img alt="Read the Docs" src="https://img.shields.io/readthedocs/macropower?logo=read-the-docs">
-  </a>
-  <a href="https://stackoverflow.com/users/4868262">
-    <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/4868262?color=orange&label=reputation&logo=stackoverflow">
-  </a>
-  <a href="https://reddit.com/u/borhan4238">
-    <img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/macropower?label=karma&logo=reddit">
-  </a>
-  <a href="https://github.com/wapborhan?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/MacroPower?color=green&logo=github">
-  </a>
-  <a href="https://github.com/wapborhan/awesome-github-profile-readme">
-    <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
-  </a>
-</p>
-<p align="center"> 
-  Visitors count<br>
-  <img src="https://profile-counter.glitch.me/wapborhan/count.svg" />
-</p>
 Thanks for visiting my profile. My name is Borhan. I'm a professional web developer, І will create a professional website, I provide solutions for companies or individuals interested in outsourcing their web design needs. I specialize in developing high-quality look & feel interface websites. I believe that my strong knowledge base and great experience are the keys to customer satisfaction.
 
-> Design is my Passion, Coding is hobby
+
 
 
 # Languages and Tools:
