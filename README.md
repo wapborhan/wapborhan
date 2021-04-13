@@ -86,3 +86,38 @@ Thanks for visiting my profile. My name is Borhan. I'm a professional web develo
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=wapborhan&show_icons=true&count_private=true)  
 
 ![GitHub metrics](https://metrics.lecoq.io/wapborhan)
+
+<h2 align="left">Coding Activity</h2>
+
+> Total logged time since 2020-07-19. Updated every 1 hour. [(Learn how this works)](https://macropower.readthedocs.io/en/latest/#dynamic-ascii-graph)
+
+<!-- prettier-ignore-start -->
+<!-- START_SECTION:ascii_graph -->
+
+```
+   523.4 hr  ┤                                                                                              ╭──── 
+   522.1 hr  ┤                                                                                             ╭╯     
+   520.7 hr  ┤                                                                                    ╭────────╯      
+   519.4 hr  ┤                                                                                 ╭──╯               
+   518.0 hr  ┤                                                                               ╭─╯                  
+   516.7 hr  ┤                                                                              ╭╯                    
+   515.3 hr  ┤                                                                    ╭─────────╯                     
+   514.0 hr  ┤                                                   ╭────────────────╯                               
+   512.6 hr  ┤                                                 ╭─╯                                                
+   511.3 hr  ┤                                      ╭──────────╯                                                  
+   509.9 hr  ┤            ╭─────────────────────────╯                                                             
+   508.6 hr  ┤     ╭──────╯                                                                                       
+   507.2 hr  ┼─────╯                                                                                              
+             ┼─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┤ 
+            -7d           -6d           -5d           -4d           -3d           -2d           -1d           now
+```
+
+<!-- END_SECTION:ascii_graph -->
+<!-- prettier-ignore-end -->
+
+<!-- links -->
+
+[84.51°]: https://github.com/8451 "84.51° Github Home"
+[issues page]: https://github.com/MacroPower/MacroPower/issues "MacroPower/issues"
+[linkedin]: https://www.linkedin.com/in/colvinjm "Jacob Colvin LinkedIn"
+
