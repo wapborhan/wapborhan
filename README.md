@@ -1,4 +1,7 @@
-### Hi there 👋, my name is [Borhan](https://www.facebook.com/borhan4238/)
+### Hi there 👋, my name is [Borhan](https://www.facebook.com/borhan4238/) <p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/wapborhan/count.svg" />
+</p>
 ![I am a Web Developer ](https://media-exp1.licdn.com/dms/image/C5616AQFvRHyxTDVH1A/profile-displaybackgroundimage-shrink_350_1400/0/1612431913167?e=1623283200&v=beta&t=NBFMyBDvc7BMtC5Yqx_4aTPJiSBTNqXKcR2sWxV-1CA)
 
 <p align="left">
