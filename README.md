@@ -1,5 +1,4 @@
-### Hi there 👋, my name is [Borhan](https://www.facebook.com/borhan4238/) | [![Github](https://img.shields.io/github/followers/wapborhan?label=Follow&style=social)](https://github.com/wapborhan)
-![Profile views](https://gpvc.arturio.dev/wapborhan)
+### Hi there 👋, my name is [Borhan](https://www.facebook.com/borhan4238/)  [![Github](https://img.shields.io/github/followers/wapborhan?label=Follow&style=social)](https://github.com/wapborhan) ![Profile views](https://gpvc.arturio.dev/wapborhan)
 > Design is my Passion, Coding is hobby
 
 
