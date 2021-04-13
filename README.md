@@ -28,9 +28,6 @@ Thanks for visiting my profile. My name is Borhan. I'm a professional web develo
 	<td>SASS</td>
 	<td></td>
 </tr>
-<tr>
-
-</tr>
 </table>
 
 
