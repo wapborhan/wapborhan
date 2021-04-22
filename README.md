@@ -56,7 +56,7 @@ Thanks for visiting my profile. My name is Borhan. I'm a professional web develo
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=wapborhan&show_icons=true&count_private=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/wapborhan)
+
 
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wapborhan)](https://github.com/anuraghazra/github-readme-stats)
@@ -95,4 +95,8 @@ Thanks for visiting my profile. My name is Borhan. I'm a professional web develo
 [84.51°]: https://github.com/8451 "84.51° Github Home"
 [issues page]: https://github.com/MacroPower/MacroPower/issues "MacroPower/issues"
 [linkedin]: https://www.linkedin.com/in/colvinjm "Jacob Colvin LinkedIn"
+
+
+
+![GitHub metrics](https://metrics.lecoq.io/wapborhan)
 
