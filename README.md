@@ -59,12 +59,12 @@ Thanks for visiting my profile. My name is Borhan. I'm a professional web develo
 
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wapborhan)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wapborhan)](https://github.com/wapborhan/github-readme-stats)
 
 
 <h2 align="left">Coding Activity</h2>
 
-> Total logged time since 2020-07-19. Updated every 1 hour. [(Learn how this works)](https://macropower.readthedocs.io/en/latest/#dynamic-ascii-graph)
+> Total logged time since 2020-07-19. Updated every 1 hour. [(Learn how this works)](https://wapborhan.readthedocs.io/en/latest/#dynamic-ascii-graph)
 
 <!-- prettier-ignore-start -->
 <!-- START_SECTION:ascii_graph -->
@@ -93,7 +93,7 @@ Thanks for visiting my profile. My name is Borhan. I'm a professional web develo
 <!-- links -->
 
 [84.51°]: https://github.com/8451 "84.51° Github Home"
-[issues page]: https://github.com/MacroPower/MacroPower/issues "MacroPower/issues"
+[issues page]: https://github.com/wapborhan/wapborhan/issues "MacroPower/issues"
 [linkedin]: https://www.linkedin.com/in/colvinjm "Jacob Colvin LinkedIn"
 
 
