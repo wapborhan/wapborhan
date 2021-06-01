@@ -78,11 +78,12 @@ I always try to give solution to others' problems. And that's how I learnt the m
 - [Answer by Showrin Barua for React js onClick can't pass value to method](https://stackoverflow.com/questions/29810914/react-js-onclick-cant-pass-value-to-method/67663491#67663491)
 - [Answer by Showrin Barua for How to change a single value in a property in a nested object in an array](https://stackoverflow.com/questions/67655907/how-to-change-a-single-value-in-a-property-in-a-nested-object-in-an-array/67656000#67656000)
 <!-- STACKOVERFLOW:END -->
-<br><br><br><br>
+<br><br>
 <br>
 ##  📊 Repositories Card:
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=wapborhan&repo=wapborhan.github.io" alt="wapborhan's Github Redme Stats" width="300px">
-
+<p align="center">  
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=wapborhan&repo=wapborhan.github.io" alt="wapborhan's Github Redme Stats">
+</p>
 ## 📊 Coding Activity:
 
 > Total logged time since 2020-07-19. Updated every 1 hour. [(Learn how this works)](https://wapborhan.readthedocs.io/en/latest/#dynamic-ascii-graph)
