@@ -95,11 +95,11 @@ Thanks for visiting my profile. My name is Borhan. I'm a professional web develo
   <img src="https://github-readme-stats-showrin.vercel.app/api/top-langs/?username=wapborhan&layout=compact" alt="Borhan's Github Top Languages Stats" height="180em">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wapborhan" alt="wapborhan's Github Streak Stats" height="180em">
    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wapborhan&repo=wapborhan.github.io" alt="wapborhan's Github Redme Stats" height="180em">
+   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=wapborhan" alt="wapborhan's Github wakatime stats" height="180em">
    
    
-   [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+   [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wapborhan)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wapborhan&repo=wapborhan.github.io)](https://github.com/wapborhan/wapborhan.github.io)
 </p>
 
 <br>
