@@ -4,9 +4,7 @@
   <br>
   This Is <a href="https://www.wapborhan.com">Borhan Uddin</a> 
   <br>
-  <img src="https://img.shields.io/github/followers/wapborhan?label=Follow&style=social" border="0" title="free hit counter" alt="free hit counter">
-   [![Github](https://img.shields.io/github/followers/wapborhan?label=Follow&style=social)](https://github.com/wapborhan) ![Profile views](https://gpvc.arturio.dev/wapborhan)
-  <br>
+  
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60px">
   <br>
   Thanks 💙 For Being A Valuable Visitor of My Profile Among
@@ -16,10 +14,13 @@
   <img src="https://profile-counter.glitch.me/wapborhan/count.svg" border="0" title="free hit counter" alt="free hit counter">
   </p>
 </h2>
+
 <h2 align="center"> 
-> Design is my Passion, Coding is hobby
+ Design is my Passion, Coding is hobby
 Glad to see you here 😊 Hope you are doing good.
 </h2>
+ [![Github](https://img.shields.io/github/followers/wapborhan?label=Follow&style=social)](https://github.com/wapborhan) ![Profile views](https://gpvc.arturio.dev/wapborhan)
+  <br>
 ![I am a Web Developer ](https://media-exp1.licdn.com/dms/image/C5616AQFvRHyxTDVH1A/profile-displaybackgroundimage-shrink_350_1400/0/1612431913167?e=1623283200&v=beta&t=NBFMyBDvc7BMtC5Yqx_4aTPJiSBTNqXKcR2sWxV-1CA)
 
 Thanks for visiting my profile. My name is Borhan. I'm a professional web developer, І will create a professional website, I provide solutions for companies or individuals interested in outsourcing their web design needs. I specialize in developing high-quality look & feel interface websites. I believe that my strong knowledge base and great experience are the keys to customer satisfaction.
