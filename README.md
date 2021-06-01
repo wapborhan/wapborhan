@@ -2,13 +2,12 @@
 <h2 align="center"> 
   Hi There 
   <br>
-  This Is <a href="https://www.wapborhan.com">Borhan Uddin</a> 
-  <br>
-  
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60px">
+   This Is <a href="https://www.wapborhan.com">Borhan Uddin</a>
   <br>
+   Design is my Passion, Coding is hobby
+  <hr>
   Thanks 💙 For Being A Valuable Visitor of My Profile Among
-  <br>
   <br>
   <p align="center">
   <img src="https://profile-counter.glitch.me/wapborhan/count.svg" border="0" title="free hit counter" alt="free hit counter">
@@ -16,7 +15,7 @@
 </h2>
 
 <h2 align="center"> 
- Design is my Passion, Coding is hobby
+  
 Glad to see you here 😊 Hope you are doing good.
 </h2>
  [![Github](https://img.shields.io/github/followers/wapborhan?label=Follow&style=social)](https://github.com/wapborhan) ![Profile views](https://gpvc.arturio.dev/wapborhan)
