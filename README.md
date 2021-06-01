@@ -7,7 +7,7 @@
    This Is <a href="https://www.wapborhan.com">Borhan Uddin</a>
   <br>
    Design is my Passion, Coding is hobby
-  <h2>
+  </h2>
     
     <a href="https://github.com/wapborhan"><img align="center" src='https://www.flaticon.com/svg/static/icons/svg/270/270798.svg' alt='github  height="25" width="25" /></a>&nbsp; &nbsp; &nbsp; 
     <a href="https://www.linkedin.com/in/borhan4238/"><img align="center" src='https://www.flaticon.com/svg/static/icons/svg/145/145807.svg' alt='linkedin' height="25" width="25" /></a>&nbsp; &nbsp; &nbsp;
@@ -27,7 +27,6 @@
 </h2>
 
 <h2 align="center"> 
-  
 Glad to see you here 😊 Hope you are doing good.
 </h2>
  
