@@ -35,25 +35,30 @@ Thanks for visiting my profile. My name is Borhan. I'm a professional web develo
 
 <p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p> 
 
-
-- ❤️ Technology Is My Love 😍
-- 😎 Programming Is My Passion 🙃
-- ⚔  Keyboard Is MY Weapon 😏
-- 🥰 Perfection Is My Habit 🌍
-- 🔭 I’m currently working on PHP project. 
-- 🌱 I’m currently learning GOLANG 
-- 💬 Ask me about HTML, CSS, PHP, javascript 
-- 📫 How to reach me: [facebook](https://www.facebook.com/borhan4238/), [Linkedin](https://www.linkedin.com/in/borhan4238/), [Twitter](https://twitter.com/borhan4238), [Linkedin](https://www.linkedin.com/in/borhan4238/), 
-- ⚡ Fun fact: listening to Music, and reading books  
+ 
 
 
  
-
+## Social Links
 [<img src='https://www.flaticon.com/svg/static/icons/svg/270/270798.svg' alt='github' height='40'>](https://github.com/wapborhan)  [<img src='https://www.flaticon.com/svg/static/icons/svg/145/145807.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/borhan4238/)  [<img src='https://www.flaticon.com/svg/static/icons/svg/145/145802.svg' alt='facebook' height='40'>](https://www.facebook.com/borhan4238)  [<img src='https://www.flaticon.com/svg/static/icons/svg/2111/2111463.svg' alt='instagram' height='40'>](https://www.instagram.com/borhan4238/)  [<img src='https://www.flaticon.com/svg/static/icons/svg/145/145812.svg' alt='twitter' height='40'>](https://twitter.com/borhan4238)  [<img src='https://www.flaticon.com/svg/static/icons/svg/2111/2111628.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/14877727/borhan4238)  [<img src='https://www.flaticon.com/svg/static/icons/svg/975/975645.svg' alt='website' height='40'>](https://wapborhan.com/)  
 
 
 
+## 📉 My Stackoverflow Stats:
 
+<img align="right" src="https://github-readme-stackoverflow-nine.vercel.app/?userID=14816896" alt="Borhan's Stackoverflow Stats">
+
+I always try to give solution to others' problems. And that's how I learnt the most basic things. 😊 Help people, and this will help you back. 💯 🎉
+
+<!-- STACKOVERFLOW:START -->
+- [Answer by Showrin Barua for Creating one single string from multiple values of array in javaScript](https://stackoverflow.com/questions/67728379/creating-one-single-string-from-multiple-values-of-array-in-javascript/67728452#67728452)
+- [Answer by Showrin Barua for Filter object property from an array of objects in javascript](https://stackoverflow.com/questions/67716448/filter-object-property-from-an-array-of-objects-in-javascript/67716565#67716565)
+- [Answer by Showrin Barua for clearTimeout() doesn't work in javascript](https://stackoverflow.com/questions/67695701/cleartimeout-doesnt-work-in-javascript/67695800#67695800)
+- [Answer by Showrin Barua for React js onClick can't pass value to method](https://stackoverflow.com/questions/29810914/react-js-onclick-cant-pass-value-to-method/67663491#67663491)
+- [Answer by Showrin Barua for How to change a single value in a property in a nested object in an array](https://stackoverflow.com/questions/67655907/how-to-change-a-single-value-in-a-property-in-a-nested-object-in-an-array/67656000#67656000)
+<!-- STACKOVERFLOW:END -->
+
+<br>
 
 
 
