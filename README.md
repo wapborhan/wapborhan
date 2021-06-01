@@ -11,6 +11,7 @@
   <br>
   <p align="center">
   <img src="https://profile-counter.glitch.me/wapborhan/count.svg" border="0" title="free hit counter" alt="free hit counter">
+    <img src="https://gpvc.arturio.dev/wapborhan" border="0" title="free hit counter" alt="free hit counter">
   </p>
 </h2>
 
