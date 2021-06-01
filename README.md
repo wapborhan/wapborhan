@@ -31,33 +31,37 @@ Thanks for visiting my profile. My name is Borhan. I'm a professional web develo
 
 
 
-# Languages and Tools:
+## 🛠️ I'm Skilled At:
 
-   <table style="width:100%">
-       <tr>
-           <td>Frontend</td>
-           <td>Backend</td>
-       </tr>
-       <tr>
-           <td>HTML</td>
-           <td>PHP</td>
-       </tr>
-       <tr>
-           <td>CSS</td>
-           <td></td>
-       </tr>
-       <tr>
-           <td>SASS</td>
-           <td></td>
-       </tr>
-   </table>
+<a href="https://www.javascript.com/"><img align="center" src="./assets/skill-and-tools/javascript.svg" alt="Showrin | Skill | Javascript" title="Javascript" height="25" width="25" /></a>&nbsp; &nbsp; &nbsp; 
+<a href="https://reactjs.org/"><img align="center" src="./assets/skill-and-tools/react.svg" alt="Showrin | Skill | React JS" title="React JS" height="25" width="25" /></a>&nbsp; &nbsp; &nbsp; 
+<a href="https://nextjs.org/"><img align="center" src="./assets/skill-and-tools/nextjs.svg" alt="Showrin | Skill | Next JS" title="Next JS" height="25" /></a>&nbsp; &nbsp; &nbsp; 
+<a href="https://ant.design/"><img align="center" src="./assets/skill-and-tools/ant-design.png" alt="Showrin | Skill | Ant Design" title="Ant Design" height="25" width="25" /></a>&nbsp; &nbsp; &nbsp; 
+<a href="https://code.jquery.com/"><img align="center" src="./assets/skill-and-tools/jquery.svg" alt="Showrin | Skill | Jquery" title="Jquery" height="20" /></a>&nbsp; &nbsp; &nbsp; 
+<a href="https://jestjs.io/"><img align="center" src="./assets/skill-and-tools/jest.svg" alt="Showrin | Skill | Jest" title="Jest" height="25" width="25" /></a>&nbsp; &nbsp; &nbsp; 
+<a href="https://enzymejs.github.io/enzyme/"><img align="center" src="./assets/skill-and-tools/enzyme.png" alt="Showrin | Skill | Enzyme" title="Enzyme" height="25" /></a>&nbsp; &nbsp; &nbsp; 
+<a href="https://eslint.org/"><img align="center" src="./assets/skill-and-tools/eslint.svg" alt="Showrin | Skill | ES Lint" title="ES Lint" height="25" width="25" /></a>&nbsp; &nbsp; &nbsp; 
+<a href="https://storybook.js.org/"><img align="center" src="./assets/skill-and-tools/storybook.png" alt="Showrin | Skill | Storybook" title="Storybook" height="25" /></a>&nbsp; &nbsp; &nbsp; 
+<a href="https://en.wikipedia.org/wiki/HTML"><img align="center" src="./assets/skill-and-tools/html.svg" alt="Showrin | Skill | HTML" title="HTML" height="25" width="25" /></a>&nbsp; &nbsp; &nbsp; 
+<a href="https://en.wikipedia.org/wiki/CSS"><img align="center" src="./assets/skill-and-tools/css.svg" alt="Showrin | Skill | CSS" title="CSS" height="25" width="25" /></a>&nbsp; &nbsp; &nbsp; 
+<a href="https://sass-lang.com/"><img align="center" src="./assets/skill-and-tools/sass.svg" alt="Showrin | Skill | Sass" title="Sass" height="25" width="25" /></a>&nbsp; &nbsp; &nbsp; 
 
+<a href="https://getbootstrap.com/"><img align="center" src="./assets/skill-and-tools/bootstrap.svg" alt="Showrin | Skill | Bootstrap" title="Bootstrap" height="25" width="25" /></a>&nbsp; &nbsp; &nbsp; 
+<a href="https://stylelint.io/"><img align="center" src="./assets/skill-and-tools/stylelint.svg" alt="Showrin | Skill | Stylelint" title="Stylelint" height="25" /></a>&nbsp; &nbsp; &nbsp; 
+<a href="https://git-scm.com/"><img align="center" src="./assets/skill-and-tools/git.svg" alt="Showrin | Skill | Git" title="Git" height="25" /></a>&nbsp; &nbsp; &nbsp; 
 
+<br>
 
+## 💼 Platforms I've Used:
 
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p> 
-
- 
+<a href="https://github.com/Showrin"><img align="center" src="./assets/skill-and-tools/github.svg" alt="Showrin | Platform | Github" title="Github" height="25" width="25" /></a>&nbsp; &nbsp; &nbsp; 
+<a href="https://vercel.com/"><img align="center" src="./assets/skill-and-tools/vercel.png" alt="Showrin | Platform | Vercel" title="Vercel" height="20" /></a>&nbsp; &nbsp; &nbsp; 
+<a href="https://www.netlify.com/"><img align="center" src="./assets/skill-and-tools/netlify.svg" alt="Showrin | Platform | Netlify" title="Netlify" height="25" width="25" /></a>&nbsp; &nbsp; &nbsp; 
+<a href="https://www.npmjs.com/"><img align="center" src="./assets/skill-and-tools/npm.svg" alt="Showrin | Platform | NPM" title="NPM" height="45" /></a>&nbsp; &nbsp; &nbsp; 
+<a href="https://classic.yarnpkg.com/en/"><img align="center" src="./assets/skill-and-tools/yarn.svg" alt="Showrin | Platform | Yarn" title="Yarn" height="25" width="25" /></a>&nbsp; &nbsp; &nbsp; 
+<a href="https://code.visualstudio.com/"><img align="center" src="./assets/skill-and-tools/visual-studio-code.svg" alt="Showrin | Platform | VS Code" title="VS Code" height="25" width="25" /></a>&nbsp; &nbsp; &nbsp; 
+<a href="https://platform.sh/"><img align="center" src="./assets/skill-and-tools/platform-sh.jpg" alt="Showrin | Platform | PlayformSH" title="PlayformSH" height="25" /></a>&nbsp; &nbsp; &nbsp; 
+<a href="https://www.npmjs.com/"><img align="center" src="./assets/skill-and-tools/chromatic.png" alt="Showrin | Platform | Chromatic" title="Chromatic" height="25" /></a>&nbsp; &nbsp; &nbsp; 
 
 
 
