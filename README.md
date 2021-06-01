@@ -8,7 +8,14 @@
   <br>
    Design is my Passion, Coding is hobby
   <h2>
-  [<img src='https://www.flaticon.com/svg/static/icons/svg/270/270798.svg' alt='github' height='40'>](https://github.com/wapborhan)  [<img src='https://www.flaticon.com/svg/static/icons/svg/145/145807.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/borhan4238/)  [<img src='https://www.flaticon.com/svg/static/icons/svg/145/145802.svg' alt='facebook' height='40'>](https://www.facebook.com/borhan4238)  [<img src='https://www.flaticon.com/svg/static/icons/svg/2111/2111463.svg' alt='instagram' height='40'>](https://www.instagram.com/borhan4238/)  [<img src='https://www.flaticon.com/svg/static/icons/svg/145/145812.svg' alt='twitter' height='40'>](https://twitter.com/borhan4238)  [<img src='https://www.flaticon.com/svg/static/icons/svg/2111/2111628.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/14877727/borhan4238)  [<img src='https://www.flaticon.com/svg/static/icons/svg/975/975645.svg' alt='website' height='40'>](https://wapborhan.com/) 
+    
+    <a href="https://github.com/wapborhan"><img align="center" src='https://www.flaticon.com/svg/static/icons/svg/270/270798.svg' alt='github  height="25" width="25" /></a>&nbsp; &nbsp; &nbsp; 
+    <a href="https://www.linkedin.com/in/borhan4238/"><img align="center" src='https://www.flaticon.com/svg/static/icons/svg/145/145807.svg' alt='linkedin' height="25" width="25" /></a>&nbsp; &nbsp; &nbsp;
+        <a href="https://www.facebook.com/borhan4238"><img align="center" src='https://www.flaticon.com/svg/static/icons/svg/145/145802.svg' alt='facebook' height="25" width="25" /></a>&nbsp; &nbsp; &nbsp;
+      <a href="https://www.instagram.com/borhan4238/"><img align="center" src='https://www.flaticon.com/svg/static/icons/svg/2111/2111463.svg' alt='instagram' height="25" width="25" /></a>&nbsp; &nbsp; &nbsp;
+      <a href="https://twitter.com/borhan4238"><img align="center" src='https://www.flaticon.com/svg/static/icons/svg/145/145812.svg' alt='twitter' height="25" width="25" /></a>&nbsp; &nbsp; &nbsp;
+       <a href="https://wapborhan.com/"><img align="center" src='https://www.flaticon.com/svg/static/icons/svg/975/975645.svg' alt='website' height="25" width="25" /></a>&nbsp; &nbsp; &nbsp;
+
  <h2 align="center"> 
    <hr>
   Thanks 💙 For Being A Valuable Visitor of My Profile Among
@@ -78,11 +85,11 @@ I always try to give solution to others' problems. And that's how I learnt the m
 - [Answer by Showrin Barua for React js onClick can't pass value to method](https://stackoverflow.com/questions/29810914/react-js-onclick-cant-pass-value-to-method/67663491#67663491)
 - [Answer by Showrin Barua for How to change a single value in a property in a nested object in an array](https://stackoverflow.com/questions/67655907/how-to-change-a-single-value-in-a-property-in-a-nested-object-in-an-array/67656000#67656000)
 <!-- STACKOVERFLOW:END -->
-
+<br><br><br><br>
 <br>
 ##  📊 Repositories Card:
-       <img src="https://github-readme-stats.vercel.app/api/pin/?username=wapborhan&repo=wapborhan.github.io" alt="wapborhan's Github Redme Stats" width="400px">
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=wapborhan&repo=wapborhan.github.io" alt="wapborhan's Github Redme Stats" width="400px">
+       <img src="https://github-readme-stats.vercel.app/api/pin/?username=wapborhan&repo=wapborhan.github.io" alt="wapborhan's Github Redme Stats" width="300px">
+     <img src="https://github-readme-stats.vercel.app/api/pin/?username=wapborhan&repo=wapborhan.github.io" alt="wapborhan's Github Redme Stats" width="300px">
 
 
 ## 📊 Coding Activity:
@@ -127,11 +134,9 @@ I always try to give solution to others' problems. And that's how I learnt the m
 
 </p>
 
-<br>
 ## 📊 My Metrics:
     <p align="center">
    <img src="https://metrics.lecoq.io/wapborhan" alt="wapborhan's Github Metrics">
     </p>
-   ![GitHub metrics](https://metrics.lecoq.io/wapborhan)
 
 
