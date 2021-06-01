@@ -6,13 +6,12 @@
    This Is <a href="https://www.wapborhan.com">Borhan Uddin</a>
   <br>
    Design is my Passion, Coding is hobby
-    
-    <a href="https://github.com/wapborhan"><img align="center" src='https://www.flaticon.com/svg/static/icons/svg/270/270798.svg' alt='github  height="25" width="25" /></a>&nbsp; &nbsp; &nbsp; 
-    <a href="https://www.linkedin.com/in/borhan4238/"><img align="center" src='https://www.flaticon.com/svg/static/icons/svg/145/145807.svg' alt='linkedin' height="25" width="25" /></a>&nbsp; &nbsp; &nbsp;
-        <a href="https://www.facebook.com/borhan4238"><img align="center" src='https://www.flaticon.com/svg/static/icons/svg/145/145802.svg' alt='facebook' height="25" width="25" /></a>&nbsp; &nbsp; &nbsp;
-      <a href="https://www.instagram.com/borhan4238/"><img align="center" src='https://www.flaticon.com/svg/static/icons/svg/2111/2111463.svg' alt='instagram' height="25" width="25" /></a>&nbsp; &nbsp; &nbsp;
-      <a href="https://twitter.com/borhan4238"><img align="center" src='https://www.flaticon.com/svg/static/icons/svg/145/145812.svg' alt='twitter' height="25" width="25" /></a>&nbsp; &nbsp; &nbsp;
-       <a href="https://wapborhan.com/"><img align="center" src='https://www.flaticon.com/svg/static/icons/svg/975/975645.svg' alt='website' height="25" width="25" /></a>&nbsp; &nbsp; &nbsp;
+<a href="https://github.com/wapborhan"><img align="center" src='https://www.flaticon.com/svg/static/icons/svg/270/270798.svg' alt='github  height="25" width="25" /></a>&nbsp; &nbsp; &nbsp; 
+<a href="https://www.linkedin.com/in/borhan4238/"><img align="center" src='https://www.flaticon.com/svg/static/icons/svg/145/145807.svg' alt='linkedin' height="25" width="25" /></a>&nbsp; &nbsp; &nbsp;
+<a href="https://www.facebook.com/borhan4238"><img align="center" src='https://www.flaticon.com/svg/static/icons/svg/145/145802.svg' alt='facebook' height="25" width="25" /></a>&nbsp; &nbsp; &nbsp;
+<a href="https://www.instagram.com/borhan4238/"><img align="center" src='https://www.flaticon.com/svg/static/icons/svg/2111/2111463.svg' alt='instagram' height="25" width="25" /></a>&nbsp; &nbsp; &nbsp;
+<a href="https://twitter.com/borhan4238"><img align="center" src='https://www.flaticon.com/svg/static/icons/svg/145/145812.svg' alt='twitter' height="25" width="25" /></a>&nbsp; &nbsp; &nbsp;
+<a href="https://wapborhan.com/"><img align="center" src='https://www.flaticon.com/svg/static/icons/svg/975/975645.svg' alt='website' height="25" width="25" /></a>&nbsp; &nbsp; &nbsp;
    <hr>
   Thanks 💙 For Being A Valuable Visitor of My Profile Among
   <br>
@@ -81,8 +80,8 @@ I always try to give solution to others' problems. And that's how I learnt the m
 <br><br><br><br>
 <br>
 ##  📊 Repositories Card:
-       <img src="https://github-readme-stats.vercel.app/api/pin/?username=wapborhan&repo=wapborhan.github.io" alt="wapborhan's Github Redme Stats" width="300px">
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=wapborhan&repo=wapborhan.github.io" alt="wapborhan's Github Redme Stats" width="300px">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=wapborhan&repo=wapborhan.github.io" alt="wapborhan's Github Redme Stats" width="300px">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=wapborhan&repo=wapborhan.github.io" alt="wapborhan's Github Redme Stats" width="300px">
 
 
 ## 📊 Coding Activity:
