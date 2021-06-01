@@ -6,6 +6,7 @@
    This Is <a href="https://www.wapborhan.com">Borhan Uddin</a>
   <br>
    Design is my Passion, Coding is hobby
+  <br>
 <a href="https://github.com/wapborhan"><img align="center" src='https://www.flaticon.com/svg/static/icons/svg/270/270798.svg' alt='github  height="25" width="25" /></a>&nbsp; &nbsp; &nbsp; 
 <a href="https://www.linkedin.com/in/borhan4238/"><img align="center" src='https://www.flaticon.com/svg/static/icons/svg/145/145807.svg' alt='linkedin' height="25" width="25" /></a>&nbsp; &nbsp; &nbsp;
 <a href="https://www.facebook.com/borhan4238"><img align="center" src='https://www.flaticon.com/svg/static/icons/svg/145/145802.svg' alt='facebook' height="25" width="25" /></a>&nbsp; &nbsp; &nbsp;
@@ -81,8 +82,6 @@ I always try to give solution to others' problems. And that's how I learnt the m
 <br>
 ##  📊 Repositories Card:
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=wapborhan&repo=wapborhan.github.io" alt="wapborhan's Github Redme Stats" width="300px">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=wapborhan&repo=wapborhan.github.io" alt="wapborhan's Github Redme Stats" width="300px">
-
 
 ## 📊 Coding Activity:
 
