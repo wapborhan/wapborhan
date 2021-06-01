@@ -35,33 +35,33 @@ Thanks for visiting my profile. My name is Borhan. I'm a professional web develo
 
 <a href="https://www.javascript.com/"><img align="center" src="https://raw.githubusercontent.com/Showrin/showrin/main/assets/skill-and-tools/javascript.svg" alt=" | Skill | Javascript" title="Javascript" height="25" width="25" /></a>&nbsp; &nbsp; &nbsp; 
 <a href="https://reactjs.org/"><img align="center" src="https://raw.githubusercontent.com/Showrin/showrin/main/assets/skill-and-tools/react.svg" alt=" | Skill | React JS" title="React JS" height="25" width="25" /></a>&nbsp; &nbsp; &nbsp; 
-<a href="https://nextjs.org/"><img align="center" src="./assets/skill-and-tools/nextjs.svg" alt=" | Skill | Next JS" title="Next JS" height="25" /></a>&nbsp; &nbsp; &nbsp; 
-<a href="https://ant.design/"><img align="center" src="./assets/skill-and-tools/ant-design.png" alt=" | Skill | Ant Design" title="Ant Design" height="25" width="25" /></a>&nbsp; &nbsp; &nbsp; 
-<a href="https://code.jquery.com/"><img align="center" src="./assets/skill-and-tools/jquery.svg" alt=" | Skill | Jquery" title="Jquery" height="20" /></a>&nbsp; &nbsp; &nbsp; 
-<a href="https://jestjs.io/"><img align="center" src="./assets/skill-and-tools/jest.svg" alt=" | Skill | Jest" title="Jest" height="25" width="25" /></a>&nbsp; &nbsp; &nbsp; 
+<a href="https://nextjs.org/"><img align="center" src="https://raw.githubusercontent.com/Showrin/showrin/main/assets/skill-and-tools/nextjs.svg" alt=" | Skill | Next JS" title="Next JS" height="25" /></a>&nbsp; &nbsp; &nbsp; 
+<a href="https://ant.design/"><img align="center" src="https://raw.githubusercontent.com/Showrin/showrin/main/assets/skill-and-tools/ant-design.png" alt=" | Skill | Ant Design" title="Ant Design" height="25" width="25" /></a>&nbsp; &nbsp; &nbsp; 
+<a href="https://code.jquery.com/"><img align="center" src="https://raw.githubusercontent.com/Showrin/showrin/main/assets/skill-and-tools/jquery.svg" alt=" | Skill | Jquery" title="Jquery" height="20" /></a>&nbsp; &nbsp; &nbsp; 
+<a href="https://jestjs.io/"><img align="center" src="https://raw.githubusercontent.com/Showrin/showrin/main/assets/skill-and-tools/jest.svg" alt=" | Skill | Jest" title="Jest" height="25" width="25" /></a>&nbsp; &nbsp; &nbsp; 
 <a href="https://enzymejs.github.io/enzyme/"><img align="center" src="./assets/skill-and-tools/enzyme.png" alt=" | Skill | Enzyme" title="Enzyme" height="25" /></a>&nbsp; &nbsp; &nbsp; 
-<a href="https://eslint.org/"><img align="center" src="./assets/skill-and-tools/eslint.svg" alt=" | Skill | ES Lint" title="ES Lint" height="25" width="25" /></a>&nbsp; &nbsp; &nbsp; 
-<a href="https://storybook.js.org/"><img align="center" src="./assets/skill-and-tools/storybook.png" alt="| Skill | Storybook" title="Storybook" height="25" /></a>&nbsp; &nbsp; &nbsp; 
-<a href="https://en.wikipedia.org/wiki/HTML"><img align="center" src="./assets/skill-and-tools/html.svg" alt=" | Skill | HTML" title="HTML" height="25" width="25" /></a>&nbsp; &nbsp; &nbsp; 
-<a href="https://en.wikipedia.org/wiki/CSS"><img align="center" src="./assets/skill-and-tools/css.svg" alt=" | Skill | CSS" title="CSS" height="25" width="25" /></a>&nbsp; &nbsp; &nbsp; 
-<a href="https://sass-lang.com/"><img align="center" src="./assets/skill-and-tools/sass.svg" alt="| Skill | Sass" title="Sass" height="25" width="25" /></a>&nbsp; &nbsp; &nbsp; 
+<a href="https://eslint.org/"><img align="center" src="https://raw.githubusercontent.com/Showrin/showrin/main/assets/skill-and-tools/eslint.svg" alt=" | Skill | ES Lint" title="ES Lint" height="25" width="25" /></a>&nbsp; &nbsp; &nbsp; 
+<a href="https://storybook.js.org/"><img align="center" src="https://raw.githubusercontent.com/Showrin/showrin/main/assets/skill-and-tools/storybook.png" alt="| Skill | Storybook" title="Storybook" height="25" /></a>&nbsp; &nbsp; &nbsp; 
+<a href="https://en.wikipedia.org/wiki/HTML"><img align="center" src="https://raw.githubusercontent.com/Showrin/showrin/main/assets/skill-and-tools/html.svg" alt=" | Skill | HTML" title="HTML" height="25" width="25" /></a>&nbsp; &nbsp; &nbsp; 
+<a href="https://en.wikipedia.org/wiki/CSS"><img align="center" src="https://raw.githubusercontent.com/Showrin/showrin/main/assets/skill-and-tools/css.svg" alt=" | Skill | CSS" title="CSS" height="25" width="25" /></a>&nbsp; &nbsp; &nbsp; 
+<a href="https://sass-lang.com/"><img align="center" src="https://raw.githubusercontent.com/Showrin/showrin/main/assets/skill-and-tools/sass.svg" alt="| Skill | Sass" title="Sass" height="25" width="25" /></a>&nbsp; &nbsp; &nbsp; 
 
-<a href="https://getbootstrap.com/"><img align="center" src="./assets/skill-and-tools/bootstrap.svg" alt=" | Skill | Bootstrap" title="Bootstrap" height="25" width="25" /></a>&nbsp; &nbsp; &nbsp; 
-<a href="https://stylelint.io/"><img align="center" src="./assets/skill-and-tools/stylelint.svg" alt=" | Skill | Stylelint" title="Stylelint" height="25" /></a>&nbsp; &nbsp; &nbsp; 
-<a href="https://git-scm.com/"><img align="center" src="./assets/skill-and-tools/git.svg" alt="| Skill | Git" title="Git" height="25" /></a>&nbsp; &nbsp; &nbsp; 
+<a href="https://getbootstrap.com/"><img align="center" src="https://raw.githubusercontent.com/Showrin/showrin/main/assets/skill-and-tools/bootstrap.svg" alt=" | Skill | Bootstrap" title="Bootstrap" height="25" width="25" /></a>&nbsp; &nbsp; &nbsp; 
+<a href="https://stylelint.io/"><img align="center" src="https://raw.githubusercontent.com/Showrin/showrin/main/assets/skill-and-tools/stylelint.svg" alt=" | Skill | Stylelint" title="Stylelint" height="25" /></a>&nbsp; &nbsp; &nbsp; 
+<a href="https://git-scm.com/"><img align="center" src="https://raw.githubusercontent.com/Showrin/showrin/main/assets/skill-and-tools/git.svg" alt="| Skill | Git" title="Git" height="25" /></a>&nbsp; &nbsp; &nbsp; 
 
 <br>
 
 ## 💼 Platforms I've Used:
 
-<a href="https://github.com/Showrin"><img align="center" src="./assets/skill-and-tools/github.svg" alt=" | Platform | Github" title="Github" height="25" width="25" /></a>&nbsp; &nbsp; &nbsp; 
-<a href="https://vercel.com/"><img align="center" src="./assets/skill-and-tools/vercel.png" alt=" | Platform | Vercel" title="Vercel" height="20" /></a>&nbsp; &nbsp; &nbsp; 
-<a href="https://www.netlify.com/"><img align="center" src="./assets/skill-and-tools/netlify.svg" alt=" | Platform | Netlify" title="Netlify" height="25" width="25" /></a>&nbsp; &nbsp; &nbsp; 
-<a href="https://www.npmjs.com/"><img align="center" src="./assets/skill-and-tools/npm.svg" alt=" | Platform | NPM" title="NPM" height="45" /></a>&nbsp; &nbsp; &nbsp; 
-<a href="https://classic.yarnpkg.com/en/"><img align="center" src="./assets/skill-and-tools/yarn.svg" alt=" | Platform | Yarn" title="Yarn" height="25" width="25" /></a>&nbsp; &nbsp; &nbsp; 
-<a href="https://code.visualstudio.com/"><img align="center" src="./assets/skill-and-tools/visual-studio-code.svg" alt=" | Platform | VS Code" title="VS Code" height="25" width="25" /></a>&nbsp; &nbsp; &nbsp; 
-<a href="https://platform.sh/"><img align="center" src="./assets/skill-and-tools/platform-sh.jpg" alt="| Platform | PlayformSH" title="PlayformSH" height="25" /></a>&nbsp; &nbsp; &nbsp; 
-<a href="https://www.npmjs.com/"><img align="center" src="./assets/skill-and-tools/chromatic.png" alt="| Platform | Chromatic" title="Chromatic" height="25" /></a>&nbsp; &nbsp; &nbsp; 
+<a href="https://github.com/wapborhan"><img align="center" src="https://raw.githubusercontent.com/Showrin/showrin/main/assets/skill-and-tools/github.svg" alt=" | Platform | Github" title="Github" height="25" width="25" /></a>&nbsp; &nbsp; &nbsp; 
+<a href="https://vercel.com/"><img align="center" src="https://raw.githubusercontent.com/Showrin/showrin/main/assets/skill-and-tools/vercel.png" alt=" | Platform | Vercel" title="Vercel" height="20" /></a>&nbsp; &nbsp; &nbsp; 
+<a href="https://www.netlify.com/"><img align="center" src="https://raw.githubusercontent.com/Showrin/showrin/main/assets/skill-and-tools/netlify.svg" alt=" | Platform | Netlify" title="Netlify" height="25" width="25" /></a>&nbsp; &nbsp; &nbsp; 
+<a href="https://www.npmjs.com/"><img align="center" src="https://raw.githubusercontent.com/Showrin/showrin/main/assets/skill-and-tools/npm.svg" alt=" | Platform | NPM" title="NPM" height="45" /></a>&nbsp; &nbsp; &nbsp; 
+<a href="https://classic.yarnpkg.com/en/"><img align="center" src="https://raw.githubusercontent.com/Showrin/showrin/main/assets/skill-and-tools/yarn.svg" alt=" | Platform | Yarn" title="Yarn" height="25" width="25" /></a>&nbsp; &nbsp; &nbsp; 
+<a href="https://code.visualstudio.com/"><img align="center" src="https://raw.githubusercontent.com/Showrin/showrin/main/assets/skill-and-tools/visual-studio-code.svg" alt=" | Platform | VS Code" title="VS Code" height="25" width="25" /></a>&nbsp; &nbsp; &nbsp; 
+<a href="https://platform.sh/"><img align="center" src="https://raw.githubusercontent.com/Showrin/showrin/main/assets/skill-and-tools/platform-sh.jpg" alt="| Platform | PlayformSH" title="PlayformSH" height="25" /></a>&nbsp; &nbsp; &nbsp; 
+<a href="https://www.npmjs.com/"><img align="center" src="https://raw.githubusercontent.com/Showrin/showrin/main/assets/skill-and-tools/chromatic.png" alt="| Platform | Chromatic" title="Chromatic" height="25" /></a>&nbsp; &nbsp; &nbsp; 
 
 
 
@@ -71,15 +71,6 @@ Thanks for visiting my profile. My name is Borhan. I'm a professional web develo
 
 I always try to give solution to others' problems. And that's how I learnt the most basic things. 😊 Help people, and this will help you back. 💯 🎉
 
-<!-- STACKOVERFLOW:START -->
-- [Answer by Showrin Barua for Creating one single string from multiple values of array in javaScript](https://stackoverflow.com/questions/67728379/creating-one-single-string-from-multiple-values-of-array-in-javascript/67728452#67728452)
-- [Answer by Showrin Barua for Filter object property from an array of objects in javascript](https://stackoverflow.com/questions/67716448/filter-object-property-from-an-array-of-objects-in-javascript/67716565#67716565)
-- [Answer by Showrin Barua for clearTimeout() doesn't work in javascript](https://stackoverflow.com/questions/67695701/cleartimeout-doesnt-work-in-javascript/67695800#67695800)
-- [Answer by Showrin Barua for React js onClick can't pass value to method](https://stackoverflow.com/questions/29810914/react-js-onclick-cant-pass-value-to-method/67663491#67663491)
-- [Answer by Showrin Barua for How to change a single value in a property in a nested object in an array](https://stackoverflow.com/questions/67655907/how-to-change-a-single-value-in-a-property-in-a-nested-object-in-an-array/67656000#67656000)
-<!-- STACKOVERFLOW:END -->
-<br><br>
-<br>
 ##  📊 Repositories Card:
 <p align="center">  
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=wapborhan&repo=wapborhan.github.io" alt="wapborhan's Github Redme Stats">
