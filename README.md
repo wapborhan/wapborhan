@@ -81,9 +81,8 @@ I always try to give solution to others' problems. And that's how I learnt the m
 
 <br>
 ##  📊 Repositories Card:
-       <img src="https://github-readme-stats.vercel.app/api/pin/?username=wapborhan&repo=wapborhan.github.io" alt="wapborhan's Github Redme Stats" >
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=wapborhan&repo=wapborhan.github.io" alt="wapborhan's Github Redme Stats" >
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=wapborhan&repo=wapborhan.github.io" alt="wapborhan's Github Redme Stats" >
+       <img src="https://github-readme-stats.vercel.app/api/pin/?username=wapborhan&repo=wapborhan.github.io" alt="wapborhan's Github Redme Stats" width="400px">
+     <img src="https://github-readme-stats.vercel.app/api/pin/?username=wapborhan&repo=wapborhan.github.io" alt="wapborhan's Github Redme Stats" width="400px">
 
 
 ## 📊 Coding Activity:
@@ -130,7 +129,7 @@ I always try to give solution to others' problems. And that's how I learnt the m
 
 <br>
 ## 📊 My Metrics:
-   
+   <img src="https://metrics.lecoq.io/wapborhan" alt="wapborhan's Github Metrics" height="180em">
    ![GitHub metrics](https://metrics.lecoq.io/wapborhan)
 
 
