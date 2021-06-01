@@ -112,4 +112,6 @@ Thanks for visiting my profile. My name is Borhan. I'm a professional web develo
 <br>
 
 ## 📊 My Metrics:
+<p align="center">
 ![GitHub metrics](https://metrics.lecoq.io/wapborhan)
+   </p>
