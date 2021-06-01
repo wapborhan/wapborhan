@@ -1,9 +1,10 @@
-### Hi there 👋, My Name is [Borhan Uddin](https://www.facebook.com/borhan4238/)  [![Github](https://img.shields.io/github/followers/wapborhan?label=Follow&style=social)](https://github.com/wapborhan) ![Profile views](https://gpvc.arturio.dev/wapborhan)
-> Design is my Passion, Coding is hobby
-
 
 <h2 align="center"> 
   Hi There 
+  <br>
+  This Is [Borhan Uddin](https://www.facebook.com/borhan4238/) 
+  <br>
+   [![Github](https://img.shields.io/github/followers/wapborhan?label=Follow&style=social)](https://github.com/wapborhan) ![Profile views](https://gpvc.arturio.dev/wapborhan)
   <br>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60px">
   <br>
@@ -14,9 +15,10 @@
   <img src="https://profile-counter.glitch.me/showrin/count.svg" border="0" title="free hit counter" alt="free hit counter">
   </p>
 </h2>
-
+<h2 align="center"> 
+> Design is my Passion, Coding is hobby
 Glad to see you here 😊 Hope you are doing good.
-
+</h2>
 ![I am a Web Developer ](https://media-exp1.licdn.com/dms/image/C5616AQFvRHyxTDVH1A/profile-displaybackgroundimage-shrink_350_1400/0/1612431913167?e=1623283200&v=beta&t=NBFMyBDvc7BMtC5Yqx_4aTPJiSBTNqXKcR2sWxV-1CA)
 
 Thanks for visiting my profile. My name is Borhan. I'm a professional web developer, І will create a professional website, I provide solutions for companies or individuals interested in outsourcing their web design needs. I specialize in developing high-quality look & feel interface websites. I believe that my strong knowledge base and great experience are the keys to customer satisfaction.
