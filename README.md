@@ -51,15 +51,9 @@ Thanks for visiting my profile. My name is Borhan. I'm a professional web develo
 
 [<img src='https://www.flaticon.com/svg/static/icons/svg/270/270798.svg' alt='github' height='40'>](https://github.com/wapborhan)  [<img src='https://www.flaticon.com/svg/static/icons/svg/145/145807.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/borhan4238/)  [<img src='https://www.flaticon.com/svg/static/icons/svg/145/145802.svg' alt='facebook' height='40'>](https://www.facebook.com/borhan4238)  [<img src='https://www.flaticon.com/svg/static/icons/svg/2111/2111463.svg' alt='instagram' height='40'>](https://www.instagram.com/borhan4238/)  [<img src='https://www.flaticon.com/svg/static/icons/svg/145/145812.svg' alt='twitter' height='40'>](https://twitter.com/borhan4238)  [<img src='https://www.flaticon.com/svg/static/icons/svg/2111/2111628.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/14877727/borhan4238)  [<img src='https://www.flaticon.com/svg/static/icons/svg/975/975645.svg' alt='website' height='40'>](https://wapborhan.com/)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wapborhan&langs_count=8)](https://github.com/wapborhan)
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=wapborhan&show_icons=true&count_private=true)  
-
-
-
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wapborhan?username=willianrod)](https://github.com/wapborhan/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wapborhan?username=wapborhan)](https://github.com/wapborhan/github-readme-stats)
 
 
 
