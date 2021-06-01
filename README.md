@@ -68,8 +68,9 @@ Thanks for visiting my profile. My name is Borhan. I'm a professional web develo
 ## 📉 My Stackoverflow Stats:
 <p align="center"> 
 <img align="center" src="https://github-readme-stackoverflow-nine.vercel.app/?userID=14816896" alt="Borhan's Stackoverflow Stats">
-
-I always try to give solution to others' problems. And that's how I learnt the most basic things. 😊 Help people, and this will help you back. 💯 🎉
+I always try to give solution to others' problems. And that's how I learnt the most basic things.
+<br>
+😊 Help people, and this will help you back. 💯 🎉
 </p>  
   
 
@@ -78,6 +79,8 @@ I always try to give solution to others' problems. And that's how I learnt the m
 <p align="center">  
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=wapborhan&repo=wapborhan.github.io" alt="wapborhan's Github Redme Stats">
 </p>
+  
+  
 ## 📊 Coding Activity:
 
 > Total logged time since 2020-07-19. Updated every 1 hour. [(Learn how this works)](https://wapborhan.readthedocs.io/en/latest/#dynamic-ascii-graph)
