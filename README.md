@@ -80,8 +80,10 @@ I always try to give solution to others' problems. And that's how I learnt the m
 <!-- STACKOVERFLOW:END -->
 
 <br>
-## 📊 Repositories Card:
+##  📊 Repositories Card:
        <img src="https://github-readme-stats.vercel.app/api/pin/?username=wapborhan&repo=wapborhan.github.io" alt="wapborhan's Github Redme Stats" >
+     <img src="https://github-readme-stats.vercel.app/api/pin/?username=wapborhan&repo=wapborhan.github.io" alt="wapborhan's Github Redme Stats" >
+     <img src="https://github-readme-stats.vercel.app/api/pin/?username=wapborhan&repo=wapborhan.github.io" alt="wapborhan's Github Redme Stats" >
 
 
 ## 📊 Coding Activity:
@@ -118,16 +120,15 @@ I always try to give solution to others' problems. And that's how I learnt the m
 ## 📊 My Dev Stats:
 
 <p align="center">
+     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=wapborhan" alt="wapborhan's Github wakatime stats" height="180em" width="500px">
+     <br>
   <img src="https://github-readme-stats-showrin.vercel.app/api?username=wapborhan&include_all_commits=true&count_private=true&show_icons=true" alt="Borhan's Github Commit Stats" height="180em">&nbsp;&nbsp;
   <img src="https://github-readme-stats-showrin.vercel.app/api/top-langs/?username=wapborhan&layout=compact" alt="Borhan's Github Top Languages Stats" height="180em">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wapborhan" alt="wapborhan's Github Streak Stats" height="180em">
-   <br>
-   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=wapborhan" alt="wapborhan's Github wakatime stats" height="180em" width="500px">
 
 </p>
 
 <br>
-
 ## 📊 My Metrics:
    
    ![GitHub metrics](https://metrics.lecoq.io/wapborhan)
