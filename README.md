@@ -2,8 +2,9 @@
 <h2 align="center"> 
   Hi There 
   <br>
-  This Is [Borhan Uddin](https://www.facebook.com/borhan4238/) 
+  This Is <a href="https://www.wapborhan.com">Borhan Uddin</a> 
   <br>
+  <img src="https://img.shields.io/github/followers/wapborhan?label=Follow&style=social" border="0" title="free hit counter" alt="free hit counter">
    [![Github](https://img.shields.io/github/followers/wapborhan?label=Follow&style=social)](https://github.com/wapborhan) ![Profile views](https://gpvc.arturio.dev/wapborhan)
   <br>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60px">
@@ -12,7 +13,7 @@
   <br>
   <br>
   <p align="center">
-  <img src="https://profile-counter.glitch.me/showrin/count.svg" border="0" title="free hit counter" alt="free hit counter">
+  <img src="https://profile-counter.glitch.me/wapborhan/count.svg" border="0" title="free hit counter" alt="free hit counter">
   </p>
 </h2>
 <h2 align="center"> 
