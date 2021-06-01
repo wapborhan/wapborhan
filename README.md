@@ -104,9 +104,9 @@ Thanks for visiting my profile. My name is Borhan. I'm a professional web develo
 ## 📊 My Dev Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats-showrin.vercel.app/api?username=showrin&include_all_commits=true&count_private=true&show_icons=true" alt="Showrin's Github Commit Stats" height="180em">&nbsp;&nbsp;
-  <img src="https://github-readme-stats-showrin.vercel.app/api/top-langs/?username=Showrin&layout=compact" alt="Showrin's Github Top Languages Stats" height="180em">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=showrin" alt="Showrin's Github Streak Stats" height="180em">
+  <img src="https://github-readme-stats-showrin.vercel.app/api?username=wapborhan&include_all_commits=true&count_private=true&show_icons=true" alt="Borhan's Github Commit Stats" height="180em">&nbsp;&nbsp;
+  <img src="https://github-readme-stats-showrin.vercel.app/api/top-langs/?username=wapborhan&layout=compact" alt="Borhan's Github Top Languages Stats" height="180em">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wapborhan" alt="wapborhan's Github Streak Stats" height="180em">
 </p>
 
 <br>
