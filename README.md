@@ -129,7 +129,9 @@ I always try to give solution to others' problems. And that's how I learnt the m
 
 <br>
 ## 📊 My Metrics:
-   <img src="https://metrics.lecoq.io/wapborhan" alt="wapborhan's Github Metrics" height="180em">
+    <p align="center">
+   <img src="https://metrics.lecoq.io/wapborhan" alt="wapborhan's Github Metrics">
+    </p>
    ![GitHub metrics](https://metrics.lecoq.io/wapborhan)
 
 
