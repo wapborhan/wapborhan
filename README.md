@@ -53,7 +53,8 @@ Thanks for visiting my profile. My name is Borhan. I'm a professional web develo
 
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wapborhan?username=wapborhan)](https://github.com/wapborhan/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wapborhan&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
