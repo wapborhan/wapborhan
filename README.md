@@ -1,7 +1,7 @@
 <h2 align="center"> 
   Hi There 
   <br>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60px">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60px"/>
     <br>
    This Is <a href="https://www.wapborhan.com">Borhan Uddin</a>
   <br>
@@ -17,14 +17,14 @@
   Thanks 💙 For Being A Valuable Visitor of My Profile Among
   <br>
   <p align="center">
-    <img src="https://img.shields.io/github/followers/wapborhan?label=Follow&style=social" border="0" title="free hit counter" alt="free hit counter">
-    <img src="https://gpvc.arturio.dev/wapborhan" border="0" title="free hit counter" alt="free hit counter">
+    <img src="https://img.shields.io/github/followers/wapborhan?label=Follow&style=social" border="0" title="free hit counter" alt="free hit counter"/>
+    <img src="https://gpvc.arturio.dev/wapborhan" border="0" title="free hit counter" alt="free hit counter"/>
   </p>
 <br>
 Glad to see you here 😊 Hope you are doing good.
 </h2>
  
-<img src="https://media-exp1.licdn.com/dms/image/C5616AQFvRHyxTDVH1A/profile-displaybackgroundimage-shrink_350_1400/0/1612431913167?e=1623283200&v=beta&t=NBFMyBDvc7BMtC5Yqx_4aTPJiSBTNqXKcR2sWxV-1CA" width="60px">
+<img src="https://media-exp1.licdn.com/dms/image/C5616AQFvRHyxTDVH1A/profile-displaybackgroundimage-shrink_350_1400/0/1612431913167?e=1623283200&v=beta&t=NBFMyBDvc7BMtC5Yqx_4aTPJiSBTNqXKcR2sWxV-1CA" width="60px"/>
   
   
 
