@@ -113,6 +113,7 @@ I always try to give solution to others' problems. And that's how I learnt the m
 <!-- prettier-ignore-end -->
 
 <!-- links -->
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 📊 My Dev Stats:
