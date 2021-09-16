@@ -24,7 +24,7 @@
 Glad to see you here 😊 Hope you are doing good.
 </h2>
  
-<img src="https://media-exp1.licdn.com/dms/image/C5616AQFvRHyxTDVH1A/profile-displaybackgroundimage-shrink_350_1400/0/1612431913167?e=1623283200&v=beta&t=NBFMyBDvc7BMtC5Yqx_4aTPJiSBTNqXKcR2sWxV-1CA" width="60px"/>
+<img src="https://media-exp1.licdn.com/dms/image/C5616AQFvRHyxTDVH1A/profile-displaybackgroundimage-shrink_350_1400/0/1612431913167?e=1637193600&v=beta&t=TPvjQxIdEajC4gcQPTfz6b6lzj73rn8RCyBQO_MtDvk"/>
   
   
 
