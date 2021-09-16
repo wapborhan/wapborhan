@@ -24,7 +24,9 @@
 Glad to see you here 😊 Hope you are doing good.
 </h2>
  
-![I am a Web Developer ](https://media-exp1.licdn.com/dms/image/C5616AQFvRHyxTDVH1A/profile-displaybackgroundimage-shrink_350_1400/0/1612431913167?e=1623283200&v=beta&t=NBFMyBDvc7BMtC5Yqx_4aTPJiSBTNqXKcR2sWxV-1CA)
+<img src="https://media-exp1.licdn.com/dms/image/C5616AQFvRHyxTDVH1A/profile-displaybackgroundimage-shrink_350_1400/0/1612431913167?e=1623283200&v=beta&t=NBFMyBDvc7BMtC5Yqx_4aTPJiSBTNqXKcR2sWxV-1CA" width="60px">
+  
+  
 
 Thanks for visiting my profile. My name is Borhan. I'm a professional web developer, І will create a professional website, I provide solutions for companies or individuals interested in outsourcing their web design needs. I specialize in developing high-quality look & feel interface websites. I believe that my strong knowledge base and great experience are the keys to customer satisfaction.
 
