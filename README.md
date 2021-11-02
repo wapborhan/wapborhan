@@ -12,8 +12,8 @@
   <p align="center">
     <img src="https://img.shields.io/github/followers/wapborhan?label=Follow&style=social" border="0" title="free hit counter" alt="free hit counter"/>
     <img src="https://gpvc.arturio.dev/wapborhan" border="0" title="free hit counter" alt="free hit counter"/>
-    [![wakatime](https://wakatime.com/badge/user/59d9f170-5e15-4b6c-8acd-f8cd5d8bb365.svg)](https://wakatime.com/@59d9f170-5e15-4b6c-8acd-f8cd5d8bb365)
   </p>
+  [![wakatime](https://wakatime.com/badge/user/59d9f170-5e15-4b6c-8acd-f8cd5d8bb365.svg)](https://wakatime.com/@59d9f170-5e15-4b6c-8acd-f8cd5d8bb365)
 <br>
 Glad to see you here 😊 Hope you are doing good.
 </h2>
