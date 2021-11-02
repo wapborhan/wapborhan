@@ -6,19 +6,13 @@
    This Is <a href="https://www.wapborhan.com">Borhan Uddin</a>
   <br>
    Design is my Passion, Coding is hobby
-  <br>
-<a href="https://github.com/wapborhan"><img align="center" src='https://www.flaticon.com/svg/static/icons/svg/270/270798.svg' alt='github'  height="25" width="25" /></a>&nbsp; &nbsp; &nbsp; 
-<a href="https://www.linkedin.com/in/borhan4238/"><img align="center" src='https://www.flaticon.com/svg/static/icons/svg/145/145807.svg' alt='linkedin' height="25" width="25" /></a>&nbsp; &nbsp; &nbsp;
-<a href="https://www.facebook.com/borhan4238"><img align="center" src='https://www.flaticon.com/svg/static/icons/svg/145/145802.svg' alt='facebook' height="25" width="25" /></a>&nbsp; &nbsp; &nbsp;
-<a href="https://www.instagram.com/borhan4238/"><img align="center" src='https://www.flaticon.com/svg/static/icons/svg/2111/2111463.svg' alt='instagram' height="25" width="25" /></a>&nbsp; &nbsp; &nbsp;
-<a href="https://twitter.com/borhan4238"><img align="center" src='https://www.flaticon.com/svg/static/icons/svg/145/145812.svg' alt='twitter' height="25" width="25" /></a>&nbsp; &nbsp; &nbsp;
-<a href="https://wapborhan.com/"><img align="center" src='https://www.flaticon.com/svg/static/icons/svg/975/975645.svg' alt='website' height="25" width="25" /></a>&nbsp; &nbsp; &nbsp;
    <hr>
   Thanks 💙 For Being A Valuable Visitor of My Profile Among
   <br>
   <p align="center">
     <img src="https://img.shields.io/github/followers/wapborhan?label=Follow&style=social" border="0" title="free hit counter" alt="free hit counter"/>
     <img src="https://gpvc.arturio.dev/wapborhan" border="0" title="free hit counter" alt="free hit counter"/>
+    [![wakatime](https://wakatime.com/badge/user/59d9f170-5e15-4b6c-8acd-f8cd5d8bb365.svg)](https://wakatime.com/@59d9f170-5e15-4b6c-8acd-f8cd5d8bb365)
   </p>
 <br>
 Glad to see you here 😊 Hope you are doing good.
