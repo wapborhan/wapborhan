@@ -79,7 +79,7 @@ I always try to give solution to others' problems. And that's how I learnt the m
 ## 📊 My Dev Stats:
 
 <p align="center">
-     <a href="https://wakatime.com/@wapborhan"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=wapborhan" alt="wapborhan's Github wakatime stats" height="180em" width="800px"></a>
+     <a href="https://wakatime.com/@wapborhan"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=wapborhan" alt="wapborhan's Github wakatime stats" height="280em" width="500px"></a>
      <br>
   <img src="https://github-readme-stats-showrin.vercel.app/api?username=wapborhan&include_all_commits=true&count_private=true&show_icons=true" alt="Borhan's Github Commit Stats" height="170em">&nbsp;&nbsp;
   <img src="https://github-readme-stats-showrin.vercel.app/api/top-langs/?username=wapborhan&layout=compact" alt="Borhan's Github Top Languages Stats" height="170em">
