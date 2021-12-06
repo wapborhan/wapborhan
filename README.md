@@ -21,7 +21,7 @@ Glad to see you here 😊 Hope you are doing good.
  
  
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wapborhan&margin-w=15" alt="wapborhan" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wapborhan&column=3&margin-w=15&margin-h=15" alt="wapborhan" /></a> </p>
 
  
  
