@@ -13,19 +13,19 @@
     <img src="https://img.shields.io/github/followers/wapborhan?label=Follow&style=social" border="0" title="free hit counter" alt="free hit counter"/>
     <img src="https://gpvc.arturio.dev/wapborhan" border="0" title="free hit counter" alt="free hit counter"/>
    <a href="https://wakatime.com/@wapborhan"> <img src="https://wakatime.com/badge/user/59d9f170-5e15-4b6c-8acd-f8cd5d8bb365.svg" border="0" title="free hit counter" alt="free hit counter"/></a>
+    <a href="https://twitter.com/wapborhan" target="blank"><img src="https://img.shields.io/twitter/follow/wapborhan?logo=twitter&style=for-the-badge" alt="wapborhan" /></a> 
   </p>
 <br>
 Glad to see you here 😊 Hope you are doing good.
 </h2>
  
  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=coderkhalide&label=Profile%20views&color=0e75b6&style=flat" alt="coderkhalide" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wapborhan" alt="wapborhan" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wapborhan" alt="wapborhan" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/coderkhalid" target="blank"><img src="https://img.shields.io/twitter/follow/wapborhan?logo=twitter&style=for-the-badge" alt="coderkhalid" /></a> </p>
  
-<img src="https://media-exp1.licdn.com/dms/image/C5616AQFvRHyxTDVH1A/profile-displaybackgroundimage-shrink_350_1400/0/1612431913167?e=1637193600&v=beta&t=TPvjQxIdEajC4gcQPTfz6b6lzj73rn8RCyBQO_MtDvk"/>
+ 
+<img src="https://github.com/wapborhan/wapborhan/blob/main/1612431913167.jpg?raw=true"/>
   
   
 
