@@ -35,24 +35,24 @@ I always try to give solution to others' problems. And that's how I learnt the m
 <br>
 😊 Help people, and this will help you back. 💯 🎉
 </p>  
- 
- ## 📊 My Coding Stats:
-<table align="center">
+ <p align="center">
+     ## 📊 My Coding Stats:
+  </p>
+
+<table align="center" width="100%">
   <tr>
   <th>Weekly Coding Activity</th>
   <th>Github Most Used Languages</th>
   </tr>
   <tr>
-  <td> <a href="https://wakatime.com/@wapborhan"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=wapborhan" alt="wapborhan's Github wakatime stats" height="auto" width="auto"></a></td>
-  <td>  <img src="https://github-readme-stats-showrin.vercel.app/api/top-langs/?username=wapborhan&layout=compact" alt="Borhan's Github Top Languages Stats" height="170em"></td>
+  <td width="50%"> <a href="https://wakatime.com/@wapborhan"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=wapborhan" alt="wapborhan's Github wakatime stats" height="auto" width="auto"></a></td>
+  <td width="50%">  <img src="https://github-readme-stats-showrin.vercel.app/api/top-langs/?username=wapborhan&layout=compact" alt="Borhan's Github Top Languages Stats" height="170em"></td>
   </tr>
 </table> 
 
 
 
-<p align="center">
-    
-  </p>
+
   
 ## 📊 My Github Stats:
 <p align="center">
