@@ -40,7 +40,7 @@ I always try to give solution to others' problems. And that's how I learnt the m
 ## 📊 My Coding Stats:
 
 <p align="center">
-     <a href="https://wakatime.com/@wapborhan"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=wapborhan" alt="wapborhan's Github wakatime stats" height="auto" width="100%"></a>
+     <a href="https://wakatime.com/@wapborhan"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=wapborhan" alt="wapborhan's Github wakatime stats" height="auto" width="580px"></a>
   </p>
   
 ## 📊 My Github Stats:
@@ -50,13 +50,15 @@ I always try to give solution to others' problems. And that's how I learnt the m
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wapborhan" alt="wapborhan's Github Streak Stats" height="180em">
 </p>
 
-## 📊 My Github Trophy:
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wapborhan&column=4&margin-w=15&margin-h=15" alt="wapborhan" /></a>
 
-## 📊 My Metrics:
-  
-<p align="center">
-   <img src="https://metrics.lecoq.io/wapborhan" alt="wapborhan's Github Metrics">
-</p>
+<table align="center">
+  <th>## 📊 My Metrics:</th>
+  <th>## 📊 My Github Trophy:</th>
+  <tr>
+  <td><img src="https://metrics.lecoq.io/wapborhan" alt="wapborhan's Github Metrics"><td>
+  <td><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wapborhan&column=4&margin-w=15&margin-h=15" alt="wapborhan" /></a><td>
+  </tr>
+   
+</table>
 
 
