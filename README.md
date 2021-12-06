@@ -46,43 +46,6 @@ I always try to give solution to others' problems. And that's how I learnt the m
 </p>  
   
 
-##  📊 Repositories Card:
-  
-<p align="center">  
-<a href="http://wapborhan.com"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wapborhan&repo=wapborhan.github.io" alt="wapborhan's Github Redme Stats"></a>
-</p>
-  
-  
-## 📊 Coding Activity:
-
-> Total logged time since 2020-07-19. Updated every 1 hour. [(Learn how this works)](https://wapborhan.readthedocs.io/en/latest/#dynamic-ascii-graph)
-
-<!-- prettier-ignore-start -->
-<!-- START_SECTION:ascii_graph -->
-
-```
-   523.4 hr  ┤                                                                                              ╭──── 
-   522.1 hr  ┤                                                                                             ╭╯     
-   520.7 hr  ┤                                                                                    ╭────────╯      
-   519.4 hr  ┤                                                                                 ╭──╯               
-   518.0 hr  ┤                                                                               ╭─╯                  
-   516.7 hr  ┤                                                                              ╭╯                    
-   515.3 hr  ┤                                                                    ╭─────────╯                     
-   514.0 hr  ┤                                                   ╭────────────────╯                               
-   512.6 hr  ┤                                                 ╭─╯                                                
-   511.3 hr  ┤                                      ╭──────────╯                                                  
-   509.9 hr  ┤            ╭─────────────────────────╯                                                             
-   508.6 hr  ┤     ╭──────╯                                                                                       
-   507.2 hr  ┼─────╯                                                                                              
-             ┼─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┤ 
-            -7d           -6d           -5d           -4d           -3d           -2d           -1d           now
-```
-
-<!-- END_SECTION:ascii_graph -->
-<!-- prettier-ignore-end -->
-
-<!-- links -->
-
 ## 📊 My Dev Stats:
 
 <p align="center">
