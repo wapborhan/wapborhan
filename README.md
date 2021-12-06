@@ -26,15 +26,6 @@ Thanks for visiting my profile. My name is Borhan. I'm a professional web develo
 
 <hr>
 
-
-## 📉 My Stackoverflow Stats:
-<p align="center"> 
-<img align="center" src="https://github-readme-stackoverflow-nine.vercel.app/?userID=14816896" alt="Borhan's Stackoverflow Stats">
-<br>
-I always try to give solution to others' problems. And that's how I learnt the most basic things.
-<br>
-😊 Help people, and this will help you back. 💯 🎉
-</p>  
  <p align="center">
      ## 📊 My Coding Stats:
   </p>
@@ -51,14 +42,27 @@ I always try to give solution to others' problems. And that's how I learnt the m
 </table> 
 
 
-
+<table align="center" width="100%">
+  <tr>
+  <th>Weekly Coding Activity</th>
+  <th>Github Most Used Languages</th>
+  </tr>
+  <tr>
+  <td width="50%">
+    <img src="https://github-readme-stats-showrin.vercel.app/api?username=wapborhan&include_all_commits=true&count_private=true&show_icons=true" alt="Borhan's Github Commit Stats" height="170em">
+  </td>
+  <td width="50%"> 
+     <img src="https://github-readme-streak-stats.herokuapp.com/?user=wapborhan" alt="wapborhan's Github Streak Stats" height="180em">
+  </td>
+  </tr>
+</table> 
 
   
 ## 📊 My Github Stats:
 <p align="center">
-  <img src="https://github-readme-stats-showrin.vercel.app/api?username=wapborhan&include_all_commits=true&count_private=true&show_icons=true" alt="Borhan's Github Commit Stats" height="170em">&nbsp;&nbsp;
+  
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wapborhan" alt="wapborhan's Github Streak Stats" height="180em">
+ 
 </p>
 
 
