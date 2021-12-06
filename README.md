@@ -55,8 +55,10 @@ I always try to give solution to others' problems. And that's how I learnt the m
   <tr>
   <th>## 📊 My Metrics:</th>
   <th>## 📊 My Github Trophy:</th>
-  <td><img src="https://metrics.lecoq.io/wapborhan" alt="wapborhan's Github Metrics"><td>
-  <td><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wapborhan&column=4&margin-w=15&margin-h=15" alt="wapborhan" /></a><td>
+  </tr>
+  <tr>
+  <td><img src="https://metrics.lecoq.io/wapborhan" alt="wapborhan's Github Metrics"></td>
+  <td><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wapborhan&column=4&margin-w=15&margin-h=15" alt="wapborhan" /></a></td>
   </tr>
    
 </table>
