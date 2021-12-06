@@ -18,22 +18,13 @@
 <br>
 Glad to see you here 😊 Hope you are doing good.
 </h2>
- 
- 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wapborhan&column=4&margin-w=15&margin-h=15" alt="wapborhan" /></a> </p>
-
- 
- 
 <img src="https://github.com/wapborhan/wapborhan/blob/main/1612431913167.jpg?raw=true"/>
-  
-  
 
+ 
 Thanks for visiting my profile. My name is Borhan. I'm a professional web developer, І will create a professional website, I provide solutions for companies or individuals interested in outsourcing their web design needs. I specialize in developing high-quality look & feel interface websites. I believe that my strong knowledge base and great experience are the keys to customer satisfaction.
 
-
-
-
+<hr>
 
 
 ## 📉 My Stackoverflow Stats:
@@ -46,15 +37,16 @@ I always try to give solution to others' problems. And that's how I learnt the m
 </p>  
   
 
-## 📊 My Dev Stats:
+## 📊 My Coding Stats:
 
 <p align="center">
      <a href="https://wakatime.com/@wapborhan"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=wapborhan" alt="wapborhan's Github wakatime stats" height="280em" width="500px"></a>
-     <br>
+  
+## 📊 My Github Stats:
   <img src="https://github-readme-stats-showrin.vercel.app/api?username=wapborhan&include_all_commits=true&count_private=true&show_icons=true" alt="Borhan's Github Commit Stats" height="170em">&nbsp;&nbsp;
   <img src="https://github-readme-stats-showrin.vercel.app/api/top-langs/?username=wapborhan&layout=compact" alt="Borhan's Github Top Languages Stats" height="170em">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wapborhan" alt="wapborhan's Github Streak Stats" height="180em">
-
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wapborhan&column=4&margin-w=15&margin-h=15" alt="wapborhan" /></a>
 </p>
 
 ## 📊 My Metrics:
