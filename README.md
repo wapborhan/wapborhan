@@ -57,15 +57,6 @@ Thanks for visiting my profile. My name is Borhan. I'm a professional web develo
   </tr>
 </table> 
 
-  
-## 📊 My Github Stats:
-<p align="center">
-  
-
- 
-</p>
-
-
 <table align="center">
   <tr>
   <th>## 📊 My Metrics:</th>
