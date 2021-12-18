@@ -24,9 +24,6 @@ Thanks for visiting my profile. My name is Borhan. I'm a professional web develo
 
 <hr>
 
- <p align="center">
-     ## 📊 My Coding Stats:
-  </p>
 
 <table align="center" width="100%">
   <tr>
