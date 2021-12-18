@@ -4,8 +4,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60px"/>
     <br>
    This Is <a href="https://www.wapborhan.com">Borhan Uddin</a>
-  <br>
-   Design is my Passion, Coding is hobby
    <hr>
   Thanks 💙 For Being A Valuable Visitor of My Profile Among
   <br>
@@ -32,8 +30,8 @@ Thanks for visiting my profile. My name is Borhan. I'm a professional web develo
 
 <table align="center" width="100%">
   <tr>
-  <th>Weekly Coding Activity</th>
-  <th>Github Most Used Languages</th>
+  <th>My Weekly Coding Activity</th>
+  <th>My Most Used Languages</th>
   </tr>
   <tr>
   <td width="50%"> <a href="https://wakatime.com/@wapborhan"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=wapborhan" alt="wapborhan's Github wakatime stats" height="auto" width="500px"></a></td>
@@ -44,8 +42,8 @@ Thanks for visiting my profile. My name is Borhan. I'm a professional web develo
 
 <table align="center" width="100%">
   <tr>
-  <th>Weekly Coding Activity</th>
-  <th>Github Most Used Languages</th>
+  <th>My Github Stats</th>
+  <th>My Github Streak Stats</th>
   </tr>
   <tr>
   <td width="50%">
@@ -59,8 +57,8 @@ Thanks for visiting my profile. My name is Borhan. I'm a professional web develo
 
 <table align="center">
   <tr>
-  <th>## 📊 My Metrics:</th>
-  <th>## 📊 My Github Trophy:</th>
+  <th> My Metrics:</th>
+  <th> My Github Trophy:</th>
   </tr>
   <tr>
   <td><img src="https://metrics.lecoq.io/wapborhan" alt="wapborhan's Github Metrics"></td>
