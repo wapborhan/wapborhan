@@ -58,7 +58,7 @@ Thanks for visiting my profile. My name is Borhan. I'm a professional web develo
   <th> My Github Trophy:</th>
   </tr>
   <tr>
-  <td><img src="https://metrics.lecoq.io/wapborhan" alt="wapborhan's Github Metrics"></td>
+ <!--  <td><img src="https://metrics.lecoq.io/wapborhan" alt="wapborhan's Github Metrics"></td>-->
   <td><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wapborhan&column=4&margin-w=15&margin-h=15" alt="wapborhan" /></a></td>
   </tr>
 </table>
