@@ -6,7 +6,7 @@
    This Is <a href="https://www.wapborhan.com">Borhan Uddin</a>
    <hr>
   Thanks 💙 For Being A Valuable Visitor of My Profile Among
-  <br>
+  </h2>
   <p align="center">
     <img src="https://img.shields.io/github/followers/wapborhan?label=Follow&style=social" border="0" title="free hit counter" alt="free hit counter"/>
     <img src="https://gpvc.arturio.dev/wapborhan" border="0" title="free hit counter" alt="free hit counter"/>
@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/Website-3423A6?style=for-the-badge&logo=Anaconda&logoColor=white"  alt="Gmail"/> </a>
 
 </p>
-<br>
+<h2 align='center'>
 Glad to see you here 😊 Hope you are doing good.
 </h2>
 
