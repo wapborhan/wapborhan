@@ -30,17 +30,11 @@
   <img src="https://img.shields.io/badge/Website-3423A6?style=for-the-badge&logo=Anaconda&logoColor=white"  alt="Gmail"/> </a>
 
 </p>
-<h2 align='center'>
-Glad to see you here 😊 Hope you are doing good.
-</h2>
-
 <img src="https://github.com/wapborhan/wapborhan/blob/main/1612431913167.jpg?raw=true"/>
-
- 
 Thanks for visiting my profile. My name is Borhan. I'm a professional web developer, І will create a professional website, I provide solutions for companies or individuals interested in outsourcing their web design needs. I specialize in developing high-quality look & feel interface websites. I believe that my strong knowledge base and great experience are the keys to customer satisfaction.
 
 <hr>
-### 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Tech Stack
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
