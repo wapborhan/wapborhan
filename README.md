@@ -13,12 +13,12 @@
    <a href="https://wakatime.com/@wapborhan"> <img src="https://wakatime.com/badge/user/59d9f170-5e15-4b6c-8acd-f8cd5d8bb365.svg" border="0" title="free hit counter" alt="free hit counter"/></a>
     <a href="https://twitter.com/wapborhan" target="blank"><img src="https://img.shields.io/twitter/follow/wapborhan?logo=twitter&style=for-the-badge" alt="wapborhan" /></a> 
 	  
-	  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"  alt="Facebook"/>
-    
-	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-	https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
-	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-	https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"  alt="Facebook"/>
+
+https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
   </p>
 <br>
 Glad to see you here 😊 Hope you are doing good.
