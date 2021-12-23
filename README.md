@@ -11,16 +11,23 @@
     <img src="https://img.shields.io/github/followers/wapborhan?label=Follow&style=social" border="0" title="free hit counter" alt="free hit counter"/>
     <img src="https://gpvc.arturio.dev/wapborhan" border="0" title="free hit counter" alt="free hit counter"/>
    <a href="https://wakatime.com/@wapborhan"> <img src="https://wakatime.com/badge/user/59d9f170-5e15-4b6c-8acd-f8cd5d8bb365.svg" border="0" title="free hit counter" alt="free hit counter"/></a>
-    <a href="https://twitter.com/wapborhan" target="blank"><img src="https://img.shields.io/twitter/follow/wapborhan?logo=twitter&style=for-the-badge" alt="wapborhan" /></a> 
   </p>
 <p align='center'>
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"  alt="Facebook"/>
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  alt="Instagram"/>
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"  alt="Twitter"/>
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt="Linkedin"/>
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"  alt="Whatsapp"/>
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  alt="Gmail"/>
-<img src="https://img.shields.io/badge/Website-3423A6?style=for-the-badge&logo=Anaconda&logoColor=white"  alt="Gmail"/> 
+
+<a href="https://twitter.com/wapborhan" target="blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"  alt="Facebook"/></a>
+<a href="https://twitter.com/wapborhan" target="blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  alt="Instagram"/></a>
+<a href="https://twitter.com/wapborhan" target="blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"  alt="Twitter"/></a>
+<a href="https://twitter.com/wapborhan" target="blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt="Linkedin"/></a>
+<a href="https://twitter.com/wapborhan" target="blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"  alt="Whatsapp"/></a>
+<a href="https://twitter.com/wapborhan" target="blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  alt="Gmail"/></a>
+<a href="https://twitter.com/wapborhan" target="blank">
+  <img src="https://img.shields.io/badge/Website-3423A6?style=for-the-badge&logo=Anaconda&logoColor=white"  alt="Gmail"/> </a>
 
 </p>
 <br>
