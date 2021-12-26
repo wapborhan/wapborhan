@@ -14,20 +14,20 @@
 </p>
 <p align='center'>
 
-<a href="https://twitter.com/wapborhan" target="blank">
+<a href="https://facebook.com/infoborhan" target="blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-<a href="https://twitter.com/wapborhan" target="blank">
+<a href="https://instagram.com/wapborhan" target="blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 <a href="https://twitter.com/wapborhan" target="blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-<a href="https://twitter.com/wapborhan" target="blank">
+<a href="https://linkedin.com/in/wapborhan" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a>
-<a href="https://twitter.com/wapborhan" target="blank">
+<a href="#" target="blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp" /></a>
-<a href="https://twitter.com/wapborhan" target="blank">
+<a href="mailto:borhaninfos@gmail.com" target="blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-<a href="https://twitter.com/wapborhan" target="blank">
-    <img src="https://img.shields.io/badge/Website-3423A6?style=for-the-badge&logo=Anaconda&logoColor=white" alt="Gmail" /> </a>
+<a href="https://wapborhan.com" target="blank">
+    <img src="https://img.shields.io/badge/Website-3423A6?style=for-the-badge&logo=Anaconda&logoColor=white" alt="Website" /> </a>
 
 </p>
 <img src="https://github.com/wapborhan/wapborhan/blob/main/1612431913167.jpg?raw=true" />
