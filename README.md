@@ -34,7 +34,6 @@
 <p>Thanks for visiting my profile. My name is Borhan. I'm a professional web developer, І will create a professional website, I provide solutions for companies or individuals interested in outsourcing their web design needs. I specialize in developing high-quality look & feel interface websites. I believe that my strong knowledge base and great experience are the keys to customer satisfaction.</p>
 
 
-<hr>
 
 ## 🛠️ I'm Skilled At:
 
@@ -50,6 +49,8 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 
 <br />
+
+## 📈 Graphs:
 
 <table align="center" width="100%">
     <tr>
