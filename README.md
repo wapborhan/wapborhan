@@ -89,6 +89,6 @@
         <td><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wapborhan&column=4&margin-w=15&margin-h=15" alt="wapborhan" /></a></td>
     </tr>
 </table>
-<img src="https://github-readme-stats-showrin.vercel.app/api/top-langs/?username=wapborhan&langs_count=20" alt="Borhan's Github Top Languages Stats" width="500px" height="auto" />
 
-<!--  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=wapborhan======Hide) -->
+
+<!--  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=wapborhan======Hide)  <img src="https://github-readme-stats-showrin.vercel.app/api/top-langs/?username=wapborhan&langs_count=20" alt="Borhan's Github Top Languages Stats" width="500px" height="auto" /> -->
