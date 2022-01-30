@@ -81,12 +81,12 @@
 
 <table align="center" width="100%">
     <tr>
-         <th> My Metrics:</th> 
+      <!--     <th> My Metrics:</th> -->
         <th> My Github Trophy:</th>
     </tr>
     <tr>
-        <td width="50%" align="center"><a href="#"><img src="https://metrics.lecoq.io/wapborhan?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FDhaka" alt="wapborhan" /></a></td>
-        <td width="50%" align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wapborhan&row=10&column=2" alt="wapborhan" /></a></td>
+    <!--    <td width="50%" align="center"><a href="#"><img src="https://metrics.lecoq.io/wapborhan?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FDhaka" alt="wapborhan" /></a></td> -->
+        <td align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wapborhan&row=10&column=2" alt="wapborhan" /></a></td>
     </tr>
 </table>
 
@@ -94,18 +94,13 @@
 
 <table align="center" width="100%">
     <tr>
-         <th> Pull Request:</th> 
-        <th> Profile Section:</th>
+        <th> Website Performance</th>
     </tr>
     <tr>
-        <td width="50%" align="center"><img src="https://metrics.lecoq.io/wapborhan?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&followup=1&followup.indepth=false&config.timezone=Asia%2FDhaka" alt="wapborhan" /></td>
-        <td width="50%" align="center"><img src="https://metrics.lecoq.io/wapborhan?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&people=1&people.limit=20&people.identicons=false&people.size=40&people.types=followers%2C%20following%2C%20sponsors%2C%20sponsoring&people.shuffle=false&config.timezone=Asia%2FDhaka" alt="wapborhan" /></td>
+        <td align="center"><img src="https://metrics.lecoq.io/wapborhan?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&people=1&people.limit=20&people.identicons=false&people.size=40&people.types=followers%2C%20following%2C%20sponsors%2C%20sponsoring&people.shuffle=false&config.timezone=Asia%2FDhaka" alt="wapborhan" /></td>
     </tr>
 </table>
 
-<p align="center">
-    <img src="https://metrics.lecoq.io/wapborhan?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&pagespeed=1&pagespeed.url=.user.website&pagespeed.detailed=true&pagespeed.screenshot=false&config.timezone=Asia%2FDhaka" width="70%" alt="wapborhan"/>
-</p>
 
 
  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=wapborhan) 
