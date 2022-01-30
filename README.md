@@ -104,7 +104,7 @@
 </table>
 
 <p width="100%" align="center">
-    <img src="https://metrics.lecoq.io/wapborhan?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&pagespeed=1&pagespeed.url=.user.website&pagespeed.detailed=true&pagespeed.screenshot=true&config.timezone=Asia%2FDhaka" />
+    <img src="https://metrics.lecoq.io/wapborhan?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&pagespeed=1&pagespeed.url=.user.website&pagespeed.detailed=true&pagespeed.screenshot=true&config.timezone=Asia%2FDhaka" width="100%" />
 </p>
 
 
