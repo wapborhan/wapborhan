@@ -90,5 +90,6 @@
     </tr>
 </table>
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wapborhan&theme=github&hide=html,css,less)
 
 <!--  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=wapborhan======Hide)  <img src="https://github-readme-stats-showrin.vercel.app/api/top-langs/?username=wapborhan&langs_count=20" alt="Borhan's Github Top Languages Stats" width="500px" height="auto" /> -->
