@@ -113,4 +113,4 @@
 
 ![Metrics](https://metrics.lecoq.io/wapborhan?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&people=1&people.limit=24&people.identicons=false&people.size=28&people.types=followers%2C%20following%2C%20sponsors%2C%20sponsoring%2C%20members%20sponsored%2C%20%20contributors%2C%20stargazers%2C%20watchers%2C%20thanks&people.shuffle=false&config.timezone=Asia%2FDhaka)
 
- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=wapborhan)  <img src="https://github-readme-stats-showrin.vercel.app/api/top-langs/?username=wapborhan&langs_count=20" alt="Borhan's Github Top Languages Stats" width="500px" height="auto" /> 
+ ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=wapborhan) 
