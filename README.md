@@ -81,17 +81,17 @@
 
 <table align="center">
     <tr>
-        <!--  <th> My Metrics:</th> -->
+         <th> My Metrics:</th> 
         <th> My Github Trophy:</th>
     </tr>
     <tr>
-        <!--  <td><img src="https://metrics.lecoq.io/wapborhan" alt="wapborhan's Github Metrics"></td>-->
+       <td>
+![Metrics](https://metrics.lecoq.io/wapborhan?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FDhaka)</td>
         <td><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wapborhan&column=4&margin-w=15&margin-h=15" alt="wapborhan" /></a></td>
     </tr>
 </table>
 
 
-![Metrics](https://metrics.lecoq.io/wapborhan?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FDhaka)
 
 ![Metrics](https://metrics.lecoq.io/wapborhan?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&pagespeed=1&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false)
 
