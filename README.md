@@ -99,7 +99,7 @@
     </tr>
     <tr>
         <td width="50%" align="center"><img src="https://metrics.lecoq.io/wapborhan?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&followup=1&followup.indepth=false&config.timezone=Asia%2FDhaka" alt="wapborhan" /></td>
-        <td width="50%" align="center"><img src="https://metrics.lecoq.io/wapborhan?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&people=1&people.limit=24&people.identicons=false&people.size=28&people.types=followers%2C%20following%2C%20sponsors%2C%20sponsoring&people.shuffle=false&config.timezone=Asia%2FDhaka" alt="wapborhan" /></td>
+        <td width="50%" align="center"><img src="dddddd" alt="wapborhan" /></td>
     </tr>
 </table>
 
