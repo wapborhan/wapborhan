@@ -79,35 +79,16 @@
     </tr>
 </table>
 
-<table align="center">
+<table align="center" width="100%">
     <tr>
          <th> My Metrics:</th> 
         <th> My Github Trophy:</th>
     </tr>
-    <tr>
+    <tr width="50%">
         <td><a href="#"><img src="https://metrics.lecoq.io/wapborhan?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FDhaka" alt="wapborhan" /></a></td>
-        <td><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wapborhan&row=10&column=2" alt="wapborhan" /></a></td>
+        <td width="50%"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wapborhan&row=10&column=2" alt="wapborhan" /></a></td>
     </tr>
 </table>
 
-
-
-![Metrics](https://metrics.lecoq.io/wapborhan?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&pagespeed=1&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false)
-
-![Metrics](https://metrics.lecoq.io/wapborhan?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&tweets=1&tweets.attachments=false&tweets.limit=2&tweets.user=.user.twitter)
-
-![Metrics](https://metrics.lecoq.io/wapborhan?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&wakatime=1&wakatime.days=7&wakatime.sections=time%2C%20projects%2C%20projects-graphs%2C%20languages%2C%20languages-graphs%2C%20editors%2C%20os&wakatime.limit=5&wakatime.url=https%3A%2F%2Fwakatime.com&wakatime.user=current)
-
-![Metrics](https://metrics.lecoq.io/wapborhan?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=full-year&config.timezone=Asia%2FDhaka)
-
-![Metrics](https://metrics.lecoq.io/wapborhan?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&followup=1&followup.sections=repositories&followup.indepth=false&config.timezone=Asia%2FDhaka)
-
-![Metrics](https://metrics.lecoq.io/wapborhan?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&projects=1&projects.limit=4&projects.descriptions=false&config.timezone=Asia%2FDhaka)
-
-
-
-![Metrics](https://metrics.lecoq.io/wapborhan?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.ignored=html%2Ccss&languages.limit=10&languages.threshold=0%25&languages.colors=github&languages.sections=most-used%2C%20recently-used&languages.details=bytes-size%2C%20percentage&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FDhaka&layout=compact)
-
-![Metrics](https://metrics.lecoq.io/wapborhan?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&people=1&people.limit=24&people.identicons=false&people.size=28&people.types=followers%2C%20following%2C%20sponsors%2C%20sponsoring%2C%20members%20sponsored%2C%20%20contributors%2C%20stargazers%2C%20watchers%2C%20thanks&people.shuffle=false&config.timezone=Asia%2FDhaka)
 
  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=wapborhan) 
