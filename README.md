@@ -84,9 +84,9 @@
          <th> My Metrics:</th> 
         <th> My Github Trophy:</th>
     </tr>
-    <tr width="50%">
-        <td><a href="#"><img src="https://metrics.lecoq.io/wapborhan?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FDhaka" alt="wapborhan" /></a></td>
-        <td width="50%"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wapborhan&row=10&column=3" alt="wapborhan" /></a></td>
+    <tr>
+        <td width="50%" align="center"><a href="#"><img src="https://metrics.lecoq.io/wapborhan?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FDhaka" alt="wapborhan" /></a></td>
+        <td width="50%" align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wapborhan&row=10&column=2" alt="wapborhan" /></a></td>
     </tr>
 </table>
 
