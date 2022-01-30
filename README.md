@@ -95,11 +95,11 @@
 <table align="center" width="100%">
     <tr>
          <th> Pull Request:</th> 
-        <th> My Github Trophy:</th>
+        <th> Profile Section:</th>
     </tr>
     <tr>
         <td width="50%" align="center"><a href="#"><img src="https://metrics.lecoq.io/wapborhan?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&followup=1&followup.indepth=false&config.timezone=Asia%2FDhaka" alt="wapborhan" /></a></td>
-        <td width="50%" align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wapborhan&row=10&column=2" alt="wapborhan" /></a></td>
+        <td width="50%" align="center"><a href="https://metrics.lecoq.io/wapborhan?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&people=1&people.limit=24&people.identicons=false&people.size=28&people.types=followers%2C%20following%2C%20sponsors%2C%20sponsoring&people.shuffle=false&config.timezone=Asia%2FDhaka" alt="wapborhan" /></a></td>
     </tr>
 </table>
 
