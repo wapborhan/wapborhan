@@ -92,4 +92,7 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wapborhan&theme=github&hide=html,css,less)
 
+
+![Metrics](https://metrics.lecoq.io/wapborhan?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FDhaka)
+
 <!--  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=wapborhan======Hide)  <img src="https://github-readme-stats-showrin.vercel.app/api/top-langs/?username=wapborhan&langs_count=20" alt="Borhan's Github Top Languages Stats" width="500px" height="auto" /> -->
