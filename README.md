@@ -101,4 +101,6 @@
 
 ![Metrics](https://metrics.lecoq.io/wapborhan?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&wakatime=1&wakatime.days=7&wakatime.sections=time%2C%20projects%2C%20projects-graphs%2C%20languages%2C%20languages-graphs%2C%20editors%2C%20os&wakatime.limit=5&wakatime.url=https%3A%2F%2Fwakatime.com&wakatime.user=current)
 
+![Metrics](https://metrics.lecoq.io/wapborhan?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=full-year&config.timezone=Asia%2FDhaka)
+
 <!--  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=wapborhan======Hide)  <img src="https://github-readme-stats-showrin.vercel.app/api/top-langs/?username=wapborhan&langs_count=20" alt="Borhan's Github Top Languages Stats" width="500px" height="auto" /> -->
