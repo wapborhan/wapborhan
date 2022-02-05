@@ -81,11 +81,11 @@
 
 <table align="center" width="100%">
     <tr>
-     <th> Website Performance</th> 
+   <!--  <th> Website Performance</th> -->
         <th> My Github Trophy:</th>
     </tr>
     <tr>
-      <td width="50%" align="center"><img src="https://metrics.lecoq.io/wapborhan?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&people=1&people.limit=20&people.identicons=false&people.size=40&people.types=followers%2C%20following%2C%20sponsors%2C%20sponsoring&people.shuffle=false&config.timezone=Asia%2FDhaka" alt="wapborhan" /></td> 
+<!--      <td width="50%" align="center"><img src="https://metrics.lecoq.io/wapborhan?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&people=1&people.limit=20&people.identicons=false&people.size=40&people.types=followers%2C%20following%2C%20sponsors%2C%20sponsoring&people.shuffle=false&config.timezone=Asia%2FDhaka" alt="wapborhan" /></td> -->
         <td align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wapborhan&row=10&column=3" alt="wapborhan" /></a></td>
     </tr>
 </table>
