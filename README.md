@@ -91,8 +91,6 @@
 </table>
 
 
-![](https://raw.githubusercontent.com/wapborhan/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/wapborhan/github-stats-transparent/output/generated/languages.svg)
 
 
  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=wapborhan) 
