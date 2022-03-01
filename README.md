@@ -91,6 +91,4 @@
 </table>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wapborhan&show_icons=true&theme=radical&include_all_commits=true)
-
  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=wapborhan) 
