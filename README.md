@@ -81,7 +81,7 @@
 
 <table align="center" width="100%">
     <tr>
-   <!--  <th> WapBorhan Performances: </th> -->
+   <!--  <th> Website Performances: </th> -->
         <th> My Github Trophy:</th>
     </tr>
     <tr>
