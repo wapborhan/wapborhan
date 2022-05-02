@@ -4,9 +4,8 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60px" />
     <br>
     This Is <a href="https://www.wapborhan.com">Borhan Uddin</a>
-    
-    <hr>
-    Thanks 💙 For Being A Valuable Visitor of My Profile Among
+ <hr>
+ Thanks 💙 For Being A Valuable Visitor of My Profile Among
 </h2>
 <p align="center">
     <img src="https://img.shields.io/github/followers/wapborhan?label=Follow&style=social" border="0" title="free hit counter" alt="free hit counter" />
