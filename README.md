@@ -90,6 +90,6 @@
     </tr>
 </table>
 
-<figure><embed src="https://wakatime.com/share/@wapborhan/30cf3e43-02e0-49a2-869e-fe047b2c824b.svg"></embed></figure>
+<!--  <figure><embed src="https://wakatime.com/share/@wapborhan/30cf3e43-02e0-49a2-869e-fe047b2c824b.svg"></embed></figure> -->
 
- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=wapborhan) 
+ <!--  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=wapborhan)   -->
