@@ -14,7 +14,7 @@
 </p>
 <p align='center'>
 
-<a href="https://facebook.com/infoborhan" target="blank">
+<a href="https://facebook.com/wapborhan" target="blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
 <a href="https://instagram.com/wapborhan" target="blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
@@ -59,7 +59,7 @@
     </tr>
     <tr>
         <td width="50%"> <a href="https://wakatime.com/@wapborhan"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=wapborhan" alt="wapborhan's Github wakatime stats" height="auto" width="500px"></a></td>
-        <td width="50%"> <img src="https://github-readme-stats-showrin.vercel.app/api/top-langs/?username=wapborhan&layout=compact&langs_count=8&hide=html,css,less" alt="Borhan's Github Top Languages Stats" width="500px" height="auto" /></td>
+        <td width="50%"> <img src="https://github-readme-stats-showrin.vercel.app/api/top-langs/?username=wapborhan&layout=compact&langs_count=8&hide=less" alt="Borhan's Github Top Languages Stats" width="500px" height="auto" /></td>
     </tr>
 </table>
 
