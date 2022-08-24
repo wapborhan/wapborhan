@@ -90,7 +90,10 @@
         <td align="center"><img src="https://github-profile-trophy.vercel.app/?username=wapborhan&row=2&column=8" alt="wapborhan" /></td>
     </tr>
 </table>
-
+<b>&#128200; Competitive Programming</b>
+<p float="left">
+<img height="273em" src="https://leetcard.jacoblin.cool/sudiptob2?theme=light&font=Karma&ext=contest" />
+<img height="280em" src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/light_card.svg" />
  <figure><embed src="https://wakatime.com/share/@wapborhan/30cf3e43-02e0-49a2-869e-fe047b2c824b.svg"></embed></figure> 
 
  <!--  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=wapborhan)   -->
