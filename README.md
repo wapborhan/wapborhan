@@ -80,10 +80,9 @@
     </tr>
 </table>
 <b>&#128200; Competitive Programming</b>
-<p float="center">
 ![Leetcode Stats](https://leetcard.jacoblin.cool/wapborhan?theme=unicorn)
+<p float="center">
 <img height="280em" src="https://raw.githubusercontent.com/wapborhan/cf-stats/main/output/light_card.svg" />
- <figure><embed src="https://wakatime.com/share/@wapborhan/30cf3e43-02e0-49a2-869e-fe047b2c824b.svg"></embed></figure> 
  </p>
  
 <table align="center" width="100%">
