@@ -81,8 +81,8 @@
 </table>
 <b>&#128200; Competitive Programming</b>
 <p float="center">
-<img height="273em" src="https://leetcard.jacoblin.cool/sudiptob2?theme=light&font=Karma&ext=contest" />
-<img height="280em" src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/light_card.svg" />
+<img height="273em" src="https://leetcard.jacoblin.cool/wapborhan?theme=light&font=Karma&ext=contest" />
+<img height="280em" src="https://raw.githubusercontent.com/wapborhan/cf-stats/main/output/light_card.svg" />
  <figure><embed src="https://wakatime.com/share/@wapborhan/30cf3e43-02e0-49a2-869e-fe047b2c824b.svg"></embed></figure> 
  </p>
  
