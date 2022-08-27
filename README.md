@@ -79,10 +79,11 @@
         </td>
     </tr>
 </table>
+<!--  
 <b>&#128200; Competitive Programming</b>
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/wapborhan?theme=unicorn&ext=activity)
-
+  -->
 
  
 <table align="center" width="100%">
@@ -97,4 +98,4 @@
 </table>
 
 
- <!--  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=wapborhan)   -->
+  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=wapborhan)   
