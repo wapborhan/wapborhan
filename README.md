@@ -79,11 +79,7 @@
         </td>
     </tr>
 </table>
-<!--  
-<b>&#128200; Competitive Programming</b>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/wapborhan?theme=unicorn&ext=activity)
-  -->
 
  
 <table align="center" width="100%">
