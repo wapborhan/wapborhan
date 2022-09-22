@@ -94,4 +94,4 @@
 </table>
 
 
-  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=wapborhan)   
+  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=wapborhan&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)   
