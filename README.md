@@ -8,7 +8,7 @@
  Thanks 💙 For Being A Valuable Visitor of My Profile Among
 </h2>
 <p align="center">
-    <h2>
+    <h2 align="center">
 🛠️ I'm Skilled At:
 </h2>
 
