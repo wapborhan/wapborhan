@@ -7,7 +7,7 @@
  <hr>
  Thanks 💙 For Being A Valuable Visitor of My Profile Among
 </h2>
-
+<p align="center">
 ## 🛠️ I'm Skilled At:
 
 
@@ -21,7 +21,7 @@
 ![PHP](https://img.shields.io/badge/-php-05122A?style=flat&logo=php)&nbsp;
 <!-- ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=1572B6)&nbsp; -->
 <!-- ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)&nbsp; -->
-
+</p>
 <br />
 
 
