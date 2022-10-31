@@ -41,7 +41,7 @@
     <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" border="0"  />
     <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react" border="0"  />
     <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" border="0"  />
-    <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D" border="0"  />
+    <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=16d45f" border="0"  />
     <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js" border="0"  />
     <img src="https://img.shields.io/badge/-php-05122A?style=flat&logo=php" border="0"  />
 
