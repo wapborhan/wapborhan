@@ -1,130 +1,47 @@
+![](https://github.com/wapborhan/wapborhan/blob/main/1612431913167.jpg?raw=true)
 
-  <div style="position: relative;">
-    <div style="margin-bottom: 170px;">
-      <img src="https://github.com/wapborhan/wapborhan/blob/main/1612431913167.jpg?raw=true" />
-    </div>
-    <div style="position: absolute;
-    bottom: -150px;
-    left: 50%;
-    transform: translateX(-50%);">
-      <img src="IMG_20201028_001349_899-01.jpg" style="border-radius: 50%;
-    border: 4px solid #7b7979;" width="300" alt="Borhan">
-    </div>
-  </div>
+![Borhan](IMG_20201028_001349_899-01.jpg)
 
-  <div align="center">
-    <h2>Borhan Uddin</h2>
-    Founder & CEO <a href="https://www.srdreamlab.com" target="_blank">SR Dream Lab</a>
+Borhan Uddin
+------------
 
-    Thanks 💙 For Being A Valuable Visitor of My Profile Among
-  </div>
+Founder & CEO [SR Dream Lab](https://www.srdreamlab.com) Thanks 💙 For Being A Valuable Visitor of My Profile Among
 
-  <p align="center">
-    <img src="https://img.shields.io/github/followers/wapborhan?label=Follow&style=social" border="0"
-      title="free hit counter" alt="free hit counter" />
-    <img src="https://gpvc.arturio.dev/wapborhan" border="0" title="free hit counter" alt="free hit counter" />
-    <a href="https://wakatime.com/@wapborhan"> <img
-        src="https://wakatime.com/badge/user/59d9f170-5e15-4b6c-8acd-f8cd5d8bb365.svg" border="0"
-        title="free hit counter" alt="free hit counter" /></a>
-  </p>
-  <p align='center'>
+![free hit counter](https://img.shields.io/github/followers/wapborhan?label=Follow&style=social "free hit counter") ![free hit counter](https://gpvc.arturio.dev/wapborhan "free hit counter") [![free hit counter](https://wakatime.com/badge/user/59d9f170-5e15-4b6c-8acd-f8cd5d8bb365.svg "free hit counter")](https://wakatime.com/@wapborhan)
 
-    <a href="https://www.facebook.com/wapborhan" target="blank">
-      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
-        alt="Facebook" /></a>
-    <a href="https://instagram.com/wapborhan" target="blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-        alt="Instagram" /></a>
-    <a href="https://twitter.com/wapborhan" target="blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
-        alt="Twitter" /></a>
-    <a href="https://linkedin.com/in/wapborhan" target="blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-        alt="Linkedin" /></a>
-    <a href="#" target="blank">
-      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
-        alt="Whatsapp" /></a>
-    <a href="mailto:borhaninfos@gmail.com" target="blank">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-        alt="Gmail" /></a>
-    <a href="https://wapborhan.com" target="blank">
-      <img src="https://img.shields.io/badge/Website-3423A6?style=for-the-badge&logo=Anaconda&logoColor=white"
-        alt="Website" /> </a>
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/wapborhan) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/wapborhan) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/wapborhan) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wapborhan) [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](#) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:borhaninfos@gmail.com) [![Website](https://img.shields.io/badge/Website-3423A6?style=for-the-badge&logo=Anaconda&logoColor=white)](https://wapborhan.com)
 
-  </p>
-  <hr />
-  <h2 align="center">
-    🛠️ I'm Skilled At:
-  </h2>
-  <p align="center">
-    <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5" border="0" />
-    <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6" border="0" />
-    <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" border="0" />
-    <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react" border="0" />
-    <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" border="0" />
-    <img src="https://img.shields.io/badge/Vue.js-20232A?style=flat&logo=vue.js&logoColor=61DAFB" border="0" />
-    <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js" border="0" />
-    <img src="https://img.shields.io/badge/-php-05122A?style=flat&logo=php" border="0" />
+* * *
 
-    <!-- ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=1572B6)&nbsp; -->
-    <!-- ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)&nbsp; -->
+🛠️ I'm Skilled At:
+-------------------
 
-  </p>
+![](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5) ![](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6) ![](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) ![](https://img.shields.io/badge/-React-05122A?style=flat&logo=react) ![](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB) ![](https://img.shields.io/badge/Vue.js-20232A?style=flat&logo=vue.js&logoColor=61DAFB) ![](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js) ![](https://img.shields.io/badge/-php-05122A?style=flat&logo=php)  
 
+I am a web-developer. I like working with JavaScript. Therefore I use React JS to make stunning UI. I am ready to work with honesty, dedication, sincerity, and confidence to adapt to any situation to achieve my purpose.
 
-  <p>I am a web-developer. I like working with JavaScript. Therefore I use React JS to make stunning UI. I am ready to
-    work with honesty, dedication, sincerity, and confidence to adapt to any situation to achieve my purpose.</p>
+\## 📈 Graphs:
 
-  ## 📈 Graphs:
+My Weekly Coding Activity
 
-  <table align="center" width="100%">
-    <tr>
-      <th>My Weekly Coding Activity</th>
-      <th>My Most Used Languages</th>
-    </tr>
-    <tr>
-      <td width="50%"> <a href="https://wakatime.com/@wapborhan"><img
-            src="https://github-readme-stats.vercel.app/api/wakatime?username=wapborhan"
-            alt="wapborhan's Github wakatime stats" height="auto" width="500px"></a></td>
-      <td width="50%"> <img
-          src="https://github-readme-stats-showrin.vercel.app/api/top-langs/?username=wapborhan&layout=compact&langs_count=8&hide=less,html,css"
-          alt="Borhan's Github Top Languages Stats" width="500px" height="auto" /></td>
-    </tr>
-  </table>
+My Most Used Languages
 
-  <table align="center" width="100%">
-    <tr>
-      <th>My Github Stats</th>
-      <th>My Github Streak Stats</th>
-    </tr>
-    <tr>
-      <td width="50%">
-        <img
-          src="https://github-readme-stats-showrin.vercel.app/api?username=wapborhan&include_all_commits=true&count_private=true&show_icons=true"
-          alt="Borhan's Github Commit Stats" height="170em">
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=wapborhan"
-          alt="wapborhan's Github Streak Stats" height="180em">
-      </td>
-    </tr>
-  </table>
+[![wapborhan's Github wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wapborhan)](https://wakatime.com/@wapborhan)
 
-  <table align="center" width="100%">
-    <tr>
-      <!--  <th> Website Performances: </th> -->
-      <th> My Github Trophy:</th>
-    </tr>
-    <tr>
-      <!--      <td width="50%" align="center"> <img src="https://metrics.lecoq.io/wapborhan?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&people=1&people.limit=20&people.identicons=false&people.size=40&people.types=followers%2C%20following%2C%20sponsors%2C%20sponsoring&people.shuffle=false&config.timezone=Asia%2FDhaka" alt="wapborhan" /></td> -->
-      <td align="center"><img src="https://github-profile-trophy.vercel.app/?username=wapborhan&row=2&column=8"
-          alt="wapborhan" /></td>
-    </tr>
-  </table>
+![Borhan's Github Top Languages Stats](https://github-readme-stats-showrin.vercel.app/api/top-langs/?username=wapborhan&layout=compact&langs_count=8&hide=less,html,css)
 
-  ![GitHub Activity
-  Graph](https://activity-graph.herokuapp.com/graph?username=wapborhan&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)
+My Github Stats
 
-  <p align="center">
-    <img src="technology.gif" border="0" title="technology" alt="technology" />
-  </p>
+My Github Streak Stats
+
+![Borhan's Github Commit Stats](https://github-readme-stats-showrin.vercel.app/api?username=wapborhan&include_all_commits=true&count_private=true&show_icons=true)
+
+![wapborhan's Github Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=wapborhan)
+
+My Github Trophy:
+
+![wapborhan](https://github-profile-trophy.vercel.app/?username=wapborhan&row=2&column=8)
+
+!\[GitHub Activity Graph\](https://activity-graph.herokuapp.com/graph?username=wapborhan&bg\_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area\_color=1c1917&area=true&hide\_border=true&custom\_title=GitHub%20Commits%20Graph)
+
+![technology](technology.gif "technology")
