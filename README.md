@@ -1,14 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
 
-<head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Document</title>
-</head>
-
-<body>
   <div style="position: relative;">
     <div style="margin-bottom: 170px;">
       <img src="https://github.com/wapborhan/wapborhan/blob/main/1612431913167.jpg?raw=true" />
@@ -138,7 +128,3 @@
   <p align="center">
     <img src="technology.gif" border="0" title="technology" alt="technology" />
   </p>
-
-</body>
-
-</html>
