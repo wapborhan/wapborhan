@@ -96,10 +96,9 @@
     </tr>
 </table>
 
-<img src="[https://github-profile-trophy.vercel.app/?username=wapborhan&row=2&column=8](https://activity-graph.herokuapp.com/graph?username=wapborhan&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)" alt="wapborhan" />
-
+<!--  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=wapborhan&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)
-
+ -->
   <p align="center">
     <img src="technology.gif" border="0" title="technology" alt="technology" />
 </p>
