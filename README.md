@@ -60,7 +60,7 @@
 ## 📈 Graphs:
 
 <table align="center" width="100%" style="border: 0px solid black;">
-    <tr>
+    <tr style="border: 0px solid black;">
         <th>My Weekly Coding Activity</th>
         <th>My Most Used Languages</th>
     </tr>
