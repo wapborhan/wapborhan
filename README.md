@@ -59,7 +59,7 @@
 
 ## 📈 Graphs:
 
-<table align="center" width="100%">
+<table align="center" width="100%" border="0">
     <tr>
         <th>My Weekly Coding Activity</th>
         <th>My Most Used Languages</th>
