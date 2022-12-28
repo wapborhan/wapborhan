@@ -1,7 +1,7 @@
 <h2 align="center">
     Hi There
     <br>
-    <img style="border-radius: 50%" src="https://wapborhan.com/images/banner.jpg" alt="">
+    <img style="border-radius: 50%;background: linear-gradient(-45deg,#ee7752,#e73c7e,#23a6d5,#23d5ab);padding:" src="https://wapborhan.com/images/banner.jpg" alt="">px;
     <br>
     This Is <a href="https://www.wapborhan.com">Borhan Uddin</a>
     <br/>
