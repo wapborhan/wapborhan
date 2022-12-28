@@ -1,5 +1,5 @@
 <p align="center">
-    <img style="width:250px; height:250px; border-radius: 50%;background: linear-gradient(-45deg,#ee7752,#e73c7e,#23a6d5,#23d5ab);padding:10px" src="https://wapborhan.com/images/banner.jpg" alt="WapBorhan"/>
+<img style="width:250px; height:250px; border-radius: 50%;background: linear-gradient(-45deg,#ee7752,#e73c7e,#23a6d5,#23d5ab);padding:10px" src="https://wapborhan.com/images/banner.jpg" alt="WapBorhan"/>
 <br/>
 <h2><a href="https://www.wapborhan.com">Borhan Uddin</a></h2>
 <br/>
