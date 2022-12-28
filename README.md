@@ -1,6 +1,6 @@
-<div align="center">
+<p align="center">
     <img style="width:250px; height:250px; border-radius: 50%;background: linear-gradient(-45deg,#ee7752,#e73c7e,#23a6d5,#23d5ab);padding:10px" src="https://wapborhan.com/images/banner.jpg" alt="WapBorhan">
-    <br>
+    <br/>
     <h2><a href="https://www.wapborhan.com">Borhan Uddin</a></h2>
     <br/>
    <h2> Founder & CEO <a href="https://www.srdreamlab.com">SR Dream Lab</a></h2>
@@ -23,7 +23,7 @@
 <hr>
     
  Thanks 💙 For Being A Valuable Visitor of My Profile Among
-</div>
+</p>
 
 <p align="center">
     <img src="https://img.shields.io/github/followers/wapborhan?label=Follow&style=social" border="0" title="free hit counter" alt="free hit counter" />
