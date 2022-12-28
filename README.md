@@ -4,6 +4,7 @@
     <h2><a href="https://www.wapborhan.com">Borhan Uddin</a></h2>
     <br/>
    <h2> Founder & CEO <a href="https://www.srdreamlab.com">SR Dream Lab</a></h2>
+</p>
 <p align='center'>
 <a href="https://www.facebook.com/wapborhan" target="blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
@@ -23,7 +24,7 @@
 <hr>
     
  Thanks 💙 For Being A Valuable Visitor of My Profile Among
-</p>
+
 
 <p align="center">
     <img src="https://img.shields.io/github/followers/wapborhan?label=Follow&style=social" border="0" title="free hit counter" alt="free hit counter" />
