@@ -1,7 +1,7 @@
 <h2 align="center">
     Hi There
     <br>
-    <img style="border-radius: 50%;background: linear-gradient(-45deg,#ee7752,#e73c7e,#23a6d5,#23d5ab);padding:" src="https://wapborhan.com/images/banner.jpg" alt="">px;
+    <img style="border-radius: 50%;background: linear-gradient(-45deg,#ee7752,#e73c7e,#23a6d5,#23d5ab);padding:10px" src="https://wapborhan.com/images/banner.jpg" alt="">px;
     <br>
     This Is <a href="https://www.wapborhan.com">Borhan Uddin</a>
     <br/>
@@ -77,7 +77,7 @@
     </tr>
     <tr>
         <td width="50%">
-            <img src="https://github-readme-stats-showrin.vercel.app/api?username=wapborhan&include_all_commits=true&count_private=true&show_icons=true" alt="Borhan's Github Commit Stats" height="170em">
+            <img height="200px" width="200px" src="https://github-readme-stats-showrin.vercel.app/api?username=wapborhan&include_all_commits=true&count_private=true&show_icons=true" alt="Borhan's Github Commit Stats" height="170em">
         </td>
         <td width="50%">
             <img src="https://github-readme-streak-stats.herokuapp.com/?user=wapborhan" alt="wapborhan's Github Streak Stats" height="180em">
