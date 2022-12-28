@@ -76,7 +76,7 @@ Founder & CEO <a href="https://www.srdreamlab.com">SR Dream Lab</a>
     </tr>
     <tr>
         <td width="50%">
-            <img height="200px" width="200px" src="https://github-readme-stats-showrin.vercel.app/api?username=wapborhan&include_all_commits=true&count_private=true&show_icons=true" alt="Borhan's Github Commit Stats" height="170em">
+            <img  src="https://github-readme-stats-showrin.vercel.app/api?username=wapborhan&include_all_commits=true&count_private=true&show_icons=true" alt="Borhan's Github Commit Stats" height="170em">
         </td>
         <td width="50%">
             <img src="https://github-readme-streak-stats.herokuapp.com/?user=wapborhan" alt="wapborhan's Github Streak Stats" height="180em">
