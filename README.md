@@ -1,22 +1,10 @@
 <h2 align="center">
-    Hi There
-    <br>
     <img style="width:200px; height:200px; border-radius: 50%;background: linear-gradient(-45deg,#ee7752,#e73c7e,#23a6d5,#23d5ab);padding:10px" src="https://wapborhan.com/images/banner.jpg" alt="WapBorhan">
     <br>
     This Is <a href="https://www.wapborhan.com">Borhan Uddin</a>
     <br/>
     Founder & CEO <a href="https://www.srdreamlab.com">SR Dream Lab</a>
- <hr>
- Thanks 💙 For Being A Valuable Visitor of My Profile Among
-</h2>
-
-<p align="center">
-    <img src="https://img.shields.io/github/followers/wapborhan?label=Follow&style=social" border="0" title="free hit counter" alt="free hit counter" />
-    <img src="https://gpvc.arturio.dev/wapborhan" border="0" title="free hit counter" alt="free hit counter" />
-    <a href="https://wakatime.com/@wapborhan"> <img src="https://wakatime.com/badge/user/59d9f170-5e15-4b6c-8acd-f8cd5d8bb365.svg" border="0" title="free hit counter" alt="free hit counter" /></a>
-</p>
 <p align='center'>
-
 <a href="https://www.facebook.com/wapborhan" target="blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
 <a href="https://instagram.com/wapborhan" target="blank">
@@ -31,8 +19,18 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 <a href="https://wapborhan.com" target="blank">
     <img src="https://img.shields.io/badge/Website-3423A6?style=for-the-badge&logo=Anaconda&logoColor=white" alt="Website" /> </a>
-
 </p>
+<hr>
+    
+ Thanks 💙 For Being A Valuable Visitor of My Profile Among
+</h2>
+
+<p align="center">
+    <img src="https://img.shields.io/github/followers/wapborhan?label=Follow&style=social" border="0" title="free hit counter" alt="free hit counter" />
+    <img src="https://gpvc.arturio.dev/wapborhan" border="0" title="free hit counter" alt="free hit counter" />
+    <a href="https://wakatime.com/@wapborhan"> <img src="https://wakatime.com/badge/user/59d9f170-5e15-4b6c-8acd-f8cd5d8bb365.svg" border="0" title="free hit counter" alt="free hit counter" /></a>
+</p>
+
 
 <h2 align="center">
 🛠️ I'm Skilled At:
