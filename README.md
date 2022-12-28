@@ -1,7 +1,7 @@
 <h2 align="center">
     Hi There
     <br>
-    <img id="border" class="gradient-border image gardnt" src="https://wapborhan.com/images/banner.jpg" alt="">
+    <img style="border-radius: 50%" src="https://wapborhan.com/images/banner.jpg" alt="">
     <br>
     This Is <a href="https://www.wapborhan.com">Borhan Uddin</a>
     <br/>
