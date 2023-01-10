@@ -55,16 +55,7 @@ Founder & CEO <a href="https://www.srdreamlab.com">SR Dream Lab</a>
 <p>Thanks for visiting my profile. My name is Borhan. I'm a professional web developer, I like working with JavaScript. Therefore I use React JS to make stunning UI & І will create a professional website, I provide solutions for companies or individuals interested in outsourcing their web design needs. I specialize in developing high-quality look & feel interface websites. I am ready to work with honesty, dedication, sincerity, and confidence to adapt to any situation to achieve my purpose. I believe that my strong knowledge base and great experience are the keys to customer satisfaction.</p>
 
 
-<table align="center" width="100%">
-    <tr>
-   <th> Daily Dev: </th> 
-   <th> Let Code:</th>
-    </tr>
-    <tr>
-    <td width="50%" align="center"> <a href="https://app.daily.dev/wapborhan"><img src="https://api.daily.dev/devcards/6b7988801f2b4b94b68e9f2eb5d5b3d6.png?r=oc4" width="400" alt="Borhan Uddin's Dev Card"/></a></td>
-        <td align="center"><img src="https://leetcard.jacoblin.cool/wapborhan?theme=unicorn&font=Monda&ext=activity" alt="wapborhan" /></td>
-    </tr>
-</table>
+
 
 
 ## 📈 Graphs:
@@ -97,14 +88,25 @@ Founder & CEO <a href="https://www.srdreamlab.com">SR Dream Lab</a>
 
 <table align="center" width="100%">
     <tr>
-   <!--  <th> Website Performances: </th> -->
         <th> My Github Trophy:</th>
     </tr>
     <tr>
-<!--      <td width="50%" align="center"> <img src="https://metrics.lecoq.io/wapborhan?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&people=1&people.limit=20&people.identicons=false&people.size=40&people.types=followers%2C%20following%2C%20sponsors%2C%20sponsoring&people.shuffle=false&config.timezone=Asia%2FDhaka" alt="wapborhan" /></td> -->
         <td align="center"><img src="https://github-profile-trophy.vercel.app/?username=wapborhan&row=2&column=8" alt="wapborhan" /></td>
     </tr>
 </table>
+
+
+<table align="center" width="100%">
+    <tr>
+   <th> Daily Dev: </th> 
+   <th> Let Code:</th>
+    </tr>
+    <tr>
+    <td width="50%" align="center"> <a href="https://app.daily.dev/wapborhan"><img src="https://api.daily.dev/devcards/6b7988801f2b4b94b68e9f2eb5d5b3d6.png?r=oc4" width="400" alt="Borhan Uddin's Dev Card"/></a></td>
+        <td align="center"><img src="https://leetcard.jacoblin.cool/wapborhan?theme=unicorn&font=Monda&ext=activity" alt="wapborhan" /></td>
+    </tr>
+</table>
+
 
   <p align="center">
     <img src="technology.gif" border="0" title="technology" alt="technology" />
