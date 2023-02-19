@@ -95,7 +95,7 @@ Founder & CEO <a href="https://www.srdreamlab.com">SR Dream Lab</a>
     </tr>
 </table>
 
-
+  <!-- 
 <table align="center" width="100%">
     <tr>
    <th> Daily Dev: </th> 
@@ -106,7 +106,7 @@ Founder & CEO <a href="https://www.srdreamlab.com">SR Dream Lab</a>
         <td align="center"><img src="https://leetcard.jacoblin.cool/wapborhan?theme=unicorn&font=Monda&ext=activity" alt="wapborhan" /></td>
     </tr>
 </table>
-
+-->
 
   <p align="center">
     <img src="technology.gif" border="0" title="technology" alt="technology" />
