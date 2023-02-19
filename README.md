@@ -109,7 +109,7 @@ Founder & CEO <a href="https://www.srdreamlab.com">SR Dream Lab</a>
 -->
 
   <p align="center">
-    <img src="technology.gif" border="0" title="technology" alt="technology" />
+    <img src="/technology.gif" border="0" title="technology" alt="technology" />
 </p>
 
   <!-- 
