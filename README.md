@@ -56,7 +56,7 @@ Founder & CEO <a href="https://www.srdreamlab.com">SR Dream Lab</a>
 
 
 
-https://github-readme-stats.vercel.app/api/wakatime?username=
+
 
 ## 📈 Graphs:
 
