@@ -51,7 +51,7 @@ Founder & CEO <a href="https://www.srdreamlab.com">SR Dream Lab</a>
 
 </p>
 
-<img src="https://github.com/wapborhan/wapborhan/blob/main/1612431913167.jpg?raw=true" />
+<img src="/wapborhan.jpg" />
 <p>Thanks for visiting my profile. My name is Borhan. I'm a professional web developer, I like working with JavaScript. Therefore I use React JS to make stunning UI & І will create a professional website, I provide solutions for companies or individuals interested in outsourcing their web design needs. I specialize in developing high-quality look & feel interface websites. I am ready to work with honesty, dedication, sincerity, and confidence to adapt to any situation to achieve my purpose. I believe that my strong knowledge base and great experience are the keys to customer satisfaction.</p>
 
 
