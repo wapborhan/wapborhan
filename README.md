@@ -37,8 +37,6 @@ Founder & CEO <a href="https://www.srdreamlab.com">SR Dream Lab</a>
 
 
 
-<img style="margin-left: 20px;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wapborhan&theme=algolia" width="430"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wapborhan&theme=algolia" width="700"/>
 
 <h2 align="center">
 🛠️ I'm Skilled At:
@@ -93,6 +91,22 @@ Founder & CEO <a href="https://www.srdreamlab.com">SR Dream Lab</a>
     </tr>
 </table>
 
+
+<table align="center" width="100%">
+    <tr>
+        <th>My Github Stats</th>
+        <th>My Github Streak Stats</th>
+    </tr>
+    <tr>
+        <td width="50%">
+            <img style="margin-left: 20px;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wapborhan&theme=algolia" width="430"/>
+        </td>
+        <td width="50%">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wapborhan&theme=algolia" width="700"/>
+        </td>
+    </tr>
+</table>
+
 <table align="center" width="100%">
     <tr>
         <th> My Github Trophy:</th>
@@ -101,6 +115,14 @@ Founder & CEO <a href="https://www.srdreamlab.com">SR Dream Lab</a>
         <td align="center"><img src="https://github-profile-trophy.vercel.app/?username=wapborhan&row=2&column=9" alt="wapborhan" /></td>
     </tr>
 </table>
+
+
+
+
+
+
+
+
   <p align="center">
     <img src="/github-contribution-grid-snake.svg" border="0" title="Snake" alt="WapBorhan" />
 </p>
