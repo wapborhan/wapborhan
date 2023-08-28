@@ -31,7 +31,7 @@ Founder & CEO <a href="https://www.srdreamlab.com">SR Dream Lab</a>
     <img src="https://gpvc.arturio.dev/wapborhan" border="0" title="free hit counter" alt="free hit counter" />
     <a href="https://wakatime.com/@wapborhan"> <img src="https://wakatime.com/badge/user/59d9f170-5e15-4b6c-8acd-f8cd5d8bb365.svg" border="0" title="free hit counter" alt="free hit counter" /></a>
 </p>
-
+![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=wapborhan&data=followers,repositories,stars,commits)
 
 <h2 align="center">
 🛠️ I'm Skilled At:
