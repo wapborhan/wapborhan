@@ -34,7 +34,7 @@ Founder & CEO <a href="https://www.srdreamlab.com">SR Dream Lab</a>
 
 <img src="https://github-widgetbox.vercel.app/api/profile?username=wapborhan&data=followers,repositories,stars,commits"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wapborhan&theme=algolia" width="400"/>
+
 
 
 <img style="margin-left: 20px;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wapborhan&theme=algolia" width="430"/>
