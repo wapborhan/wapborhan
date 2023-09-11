@@ -30,7 +30,7 @@ Founder & CEO <a href="https://www.srdreamlab.com">SR Dream Lab</a>
 
 <p align="center">
     <img src="https://img.shields.io/github/followers/wapborhan?label=Follow&style=social" border="0" title="free hit counter" alt="free hit counter" />
-    <img src="https://komarev.com/ghpvc/?username=wapborhan&style=for-the-badge"  title="0"  />
+    <img src="https://komarev.com/ghpvc/?username=wapborhan&style=flat"  title="0"  />
     <a href="https://wakatime.com/@wapborhan"> <img src="https://wakatime.com/badge/user/59d9f170-5e15-4b6c-8acd-f8cd5d8bb365.svg" border="0" title="free hit counter" alt="free hit counter" /></a>
 </p>
 
