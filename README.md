@@ -74,7 +74,7 @@ Founder & CEO <a href="https://www.srdreamlab.com">SR Dream Lab</a>
         <td width="50%"> <a href="https://wakatime.com/@wapborhan"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=wapborhan&v=2" alt="wapborhan's Github wakatime stats" height="auto" width="500px"></a></td>
 <td width="50%">
              <a target="_blank" href="https://www.wapborhan.com">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=wapborhan&layout=compact&theme=midnight-purple&custom_title=Programming%20Times%20(since%20Jul%203%202020)">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=wapborhan&layout=compact&custom_title=Programming%20Times%20(since%20Jul%203%202020)">
   </a>
  </td>
 </tr>
