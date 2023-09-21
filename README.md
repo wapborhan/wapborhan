@@ -150,22 +150,13 @@ Founder & CEO <a href="https://www.srdreamlab.com">SR Dream Lab</a>
   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=wapborhan&badges=3&show-avatar=true&style=--border-radius:10px"
 /></a>
 
-  <p align="center">
-    <img src="/technology.gif" border="0" title="technology" alt="technology" />
-</p>
-
-
-<div align="center">
-  
-
- 
-</div>
 
 
 
-  <!-- 
+
+
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=wapborhan&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)
--->
+
 
 
