@@ -152,7 +152,7 @@ Founder & CEO <a href="https://www.srdreamlab.com">SR Dream Lab</a>
   
 
   <a target="_blank" href="https://github.com/rjarman">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=wapborhan&layout=compact&theme=midnight-purple&custom_title=Programming%20Times%20(since%14Jul%203%202020)">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=wapborhan&layout=compact&theme=midnight-purple&custom_title=Programming%20Times%20(since%20Jul%203%202020)">
   </a>
 </div>
 
