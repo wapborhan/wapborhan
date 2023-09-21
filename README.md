@@ -152,6 +152,14 @@ Founder & CEO <a href="https://www.srdreamlab.com">SR Dream Lab</a>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wapborhan&layout=compact&langs_count=15&theme=midnight-purple&exclude_repo=feature-extraction-classification&custom_title=Most Used Languages (public repos)">
   </a>
 </div>
+<div align="center">
+  <a target="_blank" href="https://github.com/rjarman">
+    <img src="https://github-readme-stats.vercel.app/api?username=wapborhan&hide=prs&count_private=true&show_icons=true&theme=midnight-purple&custom_title=Github Stats (public repos)" />
+  </a>
+  <a target="_blank" href="https://github.com/rjarman">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=wapborhan&layout=compact&theme=midnight-purple&custom_title=Programming%20Times%20(since%20Jul%203%202021)">
+  </a>
+</div>
 
 
 
