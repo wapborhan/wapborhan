@@ -147,6 +147,11 @@ Founder & CEO <a href="https://www.srdreamlab.com">SR Dream Lab</a>
     <img src="/technology.gif" border="0" title="technology" alt="technology" />
 </p>
 
+<div align="center">
+  <a target="_blank" href="https://github.com/rjarman">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wapborhan&layout=compact&langs_count=15&theme=midnight-purple&exclude_repo=feature-extraction-classification&custom_title=Most Used Languages (public repos)">
+  </a>
+</div>
 
 
 
