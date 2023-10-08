@@ -119,7 +119,7 @@ Founder & CEO <a href="https://www.srdreamlab.com">SR Dream Lab</a>
         <th> My Github Trophy:</th>
     </tr>
     <tr>
-        <td align="center"><img src="https://github-profile-trophy.vercel.app/?username=wapborhan&row=2&column=9" alt="wapborhan" /></td>
+        <td align="center"><img src="https://github-profile-trophy.vercel.app/?username=wapborhan&row=2&column=5" alt="wapborhan" /></td>
     </tr>
 </table>
 
@@ -153,10 +153,6 @@ Founder & CEO <a href="https://www.srdreamlab.com">SR Dream Lab</a>
 
 
 
-
-
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=wapborhan&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)
 
 
 
