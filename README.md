@@ -1,6 +1,5 @@
 <h2 align="center">
-<img style="width:250px; height:250px; border-radius: 50%; background: linear-gradient(-45deg,#ee7752,#e73c7e,#23a6d5,#23d5ab); padding:10px" src="/IMG_20201028_001349_899-01.jpg" alt="WapBorhan"/>
-<br/><br/>
+
 <p>Borhan Uddin</p>
 
 <p>JR Full Stack Developer</p>   
