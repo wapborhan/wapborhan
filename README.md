@@ -1,4 +1,4 @@
-<h2 align="center" style="text-decoration:none"> Borhan Uddin </h2>
+<p align="center" style="text-decoration:none"> Borhan Uddin </p>
 <h2 align="center" style="text-decoration:none"> JR Full Stack Developer</h2>   
 
 <h2 align="center" style="text-decoration:none"> 
