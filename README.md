@@ -1,4 +1,4 @@
-<p align="center" style="font-size:22px"> <font size="7">Borhan Uddin </font></p>
+<p align="center" style="font-family:Papyrus; font-size:4em;"> <font size="7">Borhan Uddin </font></p>
 <p align="center" style="font-size:22px"> JR Full Stack Developer</p>   
 
 <h2 align="center" style="text-decoration:none"> 
