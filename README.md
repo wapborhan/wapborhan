@@ -1,9 +1,7 @@
-<h2 align="center" style="text-decoration:none">
+<h2 align="center" style="text-decoration:none"> Borhan Uddin </h2>
+<h2 align="center" style="text-decoration:none"> JR Full Stack Developer</h2>   
 
-<p>Borhan Uddin</p>
-
-<p>JR Full Stack Developer</p>   
-
+<h2 align="center" style="text-decoration:none"> 
 Founder & CEO <a href="https://www.srdreamlab.com"> SR Dream Lab </a>
 <br/>
 <p align='center'>
