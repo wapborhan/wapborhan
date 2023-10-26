@@ -2,7 +2,7 @@
 <h2 align="center"> JR Full Stack Developer</h2>   
 
 <h2 align="center" style="text-decoration:none"> 
-Founder & CEO <a href="https://www.srdreamlab.com"> SR Dream Lab </a>
+<p> Founder & CEO <a href="https://www.srdreamlab.com"> SR Dream Lab </a></p>
 <br/>
 <p align='center'>
 <a href="https://www.facebook.com/wapborhan" target="blank">
