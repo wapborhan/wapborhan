@@ -1,5 +1,5 @@
-<h2 align="center"> <p>Borhan Uddin</p> </h2>
-<h2 align="center" style="font-size:22px"> JR Full Stack Developer</h2>   
+<h2 align="center"> <span>Borhan Uddin</span> </h2>
+<h2 align="center"> JR Full Stack Developer</h2>   
 
 <h2 align="center" style="text-decoration:none"> 
 Founder & CEO <a href="https://www.srdreamlab.com"> SR Dream Lab </a>
