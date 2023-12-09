@@ -73,7 +73,7 @@ Thanks 💙 For Being A Valuable Visitor of My Profile Among
 
 <table align="center" width="100%">
     <tr>
-        <th> My Github Trophy:</th>
+        <th> My Github Contribute:</th>
     </tr>
     <tr>
         <td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wapborhan&theme=algolia" alt="wapborhan" /></td>
@@ -83,28 +83,19 @@ Thanks 💙 For Being A Valuable Visitor of My Profile Among
 <table align="center" width="100%">
     <tr>
         <th> My Github Trophy:</th>
+        <th> Daily Dev:</th>
     </tr>
     <tr>
-        <td align="center"><img src="https://github-profile-trophy.vercel.app/?username=wapborhan&row=2&column=5" alt="wapborhan" /></td>
+        <td align="center"><img src="https://github-profile-trophy.vercel.app/?username=wapborhan&row=3&column=3" alt="wapborhan" /></td>
+        <td width="50%" align="center"> <a href="https://app.daily.dev/wapborhan"><img src="https://api.daily.dev/devcards/6b7988801f2b4b94b68e9f2eb5d5b3d6.png?r=oc4" width="400" alt="Borhan Uddin's Dev Card"/></a></td>
     </tr>
 </table>
 
-  <p align="center">
-    <img src="/github-contribution-grid-snake.svg" border="0" title="Snake" alt="WapBorhan" />
-</p>
-  <!-- 
-<table align="center" width="100%">
-    <tr>
-   <th> Daily Dev: </th> 
-   <th> Let Code:</th>
-    </tr>
-    <tr>
-    <td width="50%" align="center"> <a href="https://app.daily.dev/wapborhan"><img src="https://api.daily.dev/devcards/6b7988801f2b4b94b68e9f2eb5d5b3d6.png?r=oc4" width="400" alt="Borhan Uddin's Dev Card"/></a></td>
-        <td align="center"><img src="https://leetcard.jacoblin.cool/wapborhan?theme=unicorn&font=Monda&ext=activity" alt="wapborhan" /></td>
-    </tr>
-</table>
--->
 <a href="https://profile.codersrank.io/user/wapborhan/">
 <img
   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=wapborhan&badges=3&show-avatar=true&style=--border-radius:10px"
 /></a>
+
+<p align="center">
+    <img src="/github-contribution-grid-snake.svg" border="0" title="Snake" alt="Snake" />
+</p>
