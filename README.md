@@ -16,25 +16,23 @@ Thanks 💙 For Being A Valuable Visitor of My Profile Among
 
 </p>
 
-<h2 align="center">
-🛠️ I'm Skilled At:
-</h2>
+# 🛠️ Primary Skill
+
 <p align="center">
-     <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5" border="0"  />
-    <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6" border="0"  />
-    <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" border="0"  />
-    <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react" border="0"  />
-    <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" border="0"  />
-    <img src="https://img.shields.io/badge/Vue.js-20232A?style=flat&logo=vue.js&logoColor=61DAFB" border="0"  />
-    <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js" border="0"  />
-    <img src="https://img.shields.io/badge/-php-05122A?style=flat&logo=php" border="0"  />
-    <img src="https://img.shields.io/badge/-express-05122A?style=flat&logo=express" border="0"  />
-    <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat" border="0"  />
-
-<!-- ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=1572B6)&nbsp; -->
-<!-- ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)&nbsp; -->
-
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" border="0"  />
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" border="0"  />
+<img src="https://img.shields.io/badge/-ReactJs-61DAFB?style=for-the-badge&logo=react&logoColor=black" border="0"  />
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" border="0"  />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" border="0"  />
 </p>
+
+### 🛠️ Tools I Used
+
+![Borhan Uddin](https://skillicons.dev/icons?i=vscode,mongodb,postman,powershell,github,git,figma)
+
+### 🛠️ UI frameworks
+
+![Borhan Uddin](https://skillicons.dev/icons?i=css,tailwind,bootstrap,daisyui)
 
 <p>Thanks for visiting my profile. My name is Borhan. I'm a professional web developer, I like working with JavaScript. Therefore I use React JS to make stunning UI & І will create a professional website, I provide solutions for companies or individuals interested in outsourcing their web design needs. I specialize in developing high-quality look & feel interface websites. I am ready to work with honesty, dedication, sincerity, and confidence to adapt to any situation to achieve my purpose. I believe that my strong knowledge base and great experience are the keys to customer satisfaction.</p>
 
