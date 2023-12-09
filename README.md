@@ -40,12 +40,6 @@ Thanks 💙 For Being A Valuable Visitor of My Profile Among
 
 ## 📈 Graphs:
 
-| My Weekly Coding Activity | My Most Used Languages |
-| ----------- | ----------- |
-| ![WapBorhan](https://wakatime.com/badge/user/59d9f170-5e15-4b6c-8acd-f8cd5d8bb365.svg "Wakatime") [![WapBorhan](https://github-readme-stats.vercel.app/api/wakatime?username=wapborhan&v=2 "Wakatime")](https://wakatime.com/@wapborhan) | ![Top Languages Stats](https://github-readme-stats-showrin.vercel.app/api/top-langs/?username=wapborhan&layout=compact&langs_count=6&hide=less,html,css,php,scss) |
-
-
-
 <table align="center" width="100%" >
     <tr >
         <th>My Weekly Coding Activity</th>
@@ -79,16 +73,10 @@ Thanks 💙 For Being A Valuable Visitor of My Profile Among
 
 <table align="center" width="100%">
     <tr>
-        <th>My Github Stats</th>
-        <th>My Github Streak Stats</th>
+        <th> My Github Trophy:</th>
     </tr>
     <tr>
-        <td width="50%">
-            <img style="margin-left: 20px;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wapborhan&theme=algolia" width="430"/>
-        </td>
-        <td width="50%">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wapborhan&theme=algolia" width="700"/>
-        </td>
+        <td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wapborhan&theme=algolia" alt="wapborhan" /></td>
     </tr>
 </table>
 
@@ -120,5 +108,3 @@ Thanks 💙 For Being A Valuable Visitor of My Profile Among
 <img
   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=wapborhan&badges=3&show-avatar=true&style=--border-radius:10px"
 /></a>
-
- 
