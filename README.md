@@ -85,7 +85,8 @@ Thanks 💙 For Being A Valuable Visitor of My Profile Among
     </tr>
     <tr>
         <td align="center"><img src="https://github-profile-trophy.vercel.app/?username=wapborhan&row=4&column=3" alt="wapborhan" /></td>
-        <td width="50%" align="center"> <a href="https://app.daily.dev/wapborhan"><img src="/daily-dev.png" width="400" alt="Borhan Uddin's Dev Card"/></a></td>
+        <td width="50%" align="center"> <a href="https://app.daily.dev/wapborhan"><img src="https://api.daily.dev/devcards/v2/HpjjMldskvMOH2XrQLtQm.png?type=default&r=syl" width="356" alt="Borhan Uddin's Dev Card"/></a></td>
+          <td width="50%" align="center"> <a href="https://app.daily.dev/wapborhan"><img src="/daily-dev.png" width="400" alt="Borhan Uddin's Dev Card"/></a></td>
     </tr>
 </table>
 
