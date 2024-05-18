@@ -36,10 +36,10 @@ async function run() {
 run().catch(console.dir);
 // Root Api to check activity
 app.get("/", (req, res) => {
-  res.send("Hello From NR Computers!");
+  res.send("Hello From SR Dream Lab!");
 });
 app.listen(port, () => {
-  console.log(`NR Computers listening on port ${port}`);
+  console.log(`SR Dream Lab listening on port ${port}`);
 });
 ```
 
