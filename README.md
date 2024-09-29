@@ -85,7 +85,7 @@ Thanks 💙 For Being A Valuable Visitor of My Profile Among
     </tr>
     <tr>
         <td align="center"><img width="400" src="https://wapborhan.github.io/github-stats.github.io/generated/overview.svg#gh-dark-mode-only" /></td>
-        <td width="50%" align="center"> <a href="https://app.daily.dev/wapborhan"><img width="400" src="https://wapborhan.github.io/github-stats.github.io/generated/languages.svg#gh-dark-mode-only" /></a></td>
+        <td width="50%" align="center"> <img width="400" src="https://wapborhan.github.io/github-stats.github.io/generated/languages.svg#gh-dark-mode-only" /></td>
        
 </tr>
 </table>
