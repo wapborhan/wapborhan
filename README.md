@@ -84,11 +84,29 @@ Thanks 💙 For Being A Valuable Visitor of My Profile Among
         <th> Daily Dev:</th>
     </tr>
     <tr>
+        <td align="center"><img width="400" src="https://wapborhan.github.io/github-stats.github.io/generated/overview.svg#gh-dark-mode-only" /></td>
+        <td width="50%" align="center"> <a href="https://app.daily.dev/wapborhan"><img width="400" src="https://wapborhan.github.io/github-stats.github.io/generated/languages.svg#gh-dark-mode-only" /></a></td>
+       
+</tr>
+</table>
+
+
+<table align="center" width="100%">
+    <tr>
+        <th> My Github Trophy:</th>
+        <th> Daily Dev:</th>
+    </tr>
+    <tr>
         <td align="center"><img src="https://github-profile-trophy.vercel.app/?username=wapborhan&row=4&column=3" alt="wapborhan" /></td>
         <td width="50%" align="center"> <a href="https://app.daily.dev/wapborhan"><img src="https://api.daily.dev/devcards/v2/HpjjMldskvMOH2XrQLtQm.png?type=default&r=syl" width="356" alt="Borhan Uddin's Dev Card"/></a></td>
        
 </tr>
 </table>
+
+
+
+
+
 
 <a href="https://profile.codersrank.io/user/wapborhan/">
 <img
