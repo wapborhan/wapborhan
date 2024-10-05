@@ -49,7 +49,7 @@ Thanks 💙 For Being A Valuable Visitor of My Profile Among
 <a href="https://wakatime.com/@wapborhan"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=wapborhan&v=2" alt="wapborhan's Github wakatime stats" height="auto" width="500px"></a>
 </td>
 <td width="50%">
-     <img src="https://github-readme-stats-showrin.vercel.app/api/top-langs/?username=wapborhan&layout=compact&langs_count=10&hide=less,hack,scss,shell" alt="Borhan's Github Top Languages Stats" width="500px" height="auto" />
+     <img src="https://github-readme-stats-showrin.vercel.app/api/top-langs/?username=wapborhan&layout=compact&langs_count=10&hide=less,hack,scss,shell,vue" alt="Borhan's Github Top Languages Stats" width="500px" height="auto" />
 </td>
 </tr>
 </table>
@@ -78,17 +78,7 @@ Thanks 💙 For Being A Valuable Visitor of My Profile Among
     </tr>
 </table>
 
-<table align="center" width="100%">
-    <tr>
-        <th> My Github Trophy:</th>
-        <th> Daily Dev:</th>
-    </tr>
-    <tr>
-        <td align="center"><img width="400" src="https://wapborhan.github.io/github-stats.github.io/generated/overview.svg#gh-dark-mode-only" /></td>
-        <td width="50%" align="center"> <img width="400" src="https://wapborhan.github.io/github-stats.github.io/generated/languages.svg#gh-dark-mode-only" /></td>
-       
-</tr>
-</table>
+
 
 
 <table align="center" width="100%">
